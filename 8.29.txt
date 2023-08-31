@@ -346,7 +346,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/bzys.js"
+    },    {
+            "key": "drpy_js_花猫TV",
+                  "name": "😻花猫",
+                        "type": 3,
+                              "api": "http://smr.xzam.cn:66/lib/drpy2.min.js",
+                                    "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
     },
+    }
     {
       "key": "蘑菇2",
       "name": "🍄️蘑菇┃APP",
