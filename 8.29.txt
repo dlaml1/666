@@ -353,7 +353,7 @@
                               "api": "http://smr.xzam.cn:66/lib/drpy2.min.js",
                                     "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
     },
-    }
+    
     {
       "key": "蘑菇2",
       "name": "🍄️蘑菇┃APP",
