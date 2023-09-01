@@ -317,7 +317,17 @@
                         "type": 3,
                               "api": "http://smr.xzam.cn:66/lib/drpy2.min.js",
                                     "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
+    },    {
+            "key": "csp_WoGG",
+                  "name": "👽玩偶哥哥┃4K",
+                        "type": 3,
+                              "api": "csp_WoGG",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "changeable": 0,
+                                                      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
     },
+    
     {
       "key": "蘑菇2",
       "name": "🍄️蘑菇┃APP",
