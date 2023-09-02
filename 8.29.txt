@@ -45,7 +45,16 @@
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/菜狗.js"
+    },   {
+            "key": "juying",
+                  "name": "🍿聚影[长按搜索看]",
+                        "type": 3,
+                              "searchable": 1,
+                                    "changeable": 0,
+                                          "quickSearch": 0,
+                            "filterable": 1,                     "api": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/apiv35%E5%BD%B1%E8%A7%86%E8%81%9A%E6%90%9C.js"
     },
+    
     {
       "key": "秒看资源",
       "name": "秒看┃切片",
