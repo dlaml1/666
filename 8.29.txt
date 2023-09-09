@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月1日更新",
+      "name": "🍳┃360官源┃9月9日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -45,21 +45,21 @@
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/菜狗.js"
-    },     {
-            "key": "csp_秋秋",
-                  "name": "🐧腾讯",
-                        "type": 1,
-                              "playerType": 2,
-                                    "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
-                                          "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
-                                                "categories": [
-                                                          "电影",
-                                                                  "电视剧",
-                                                                          "动漫",
-                                                                                  "综艺"
-                                                ]
+    },   
+        {
+      "key": "csp_秋秋",
+      "name": "🐧腾讯",
+      "type": 1,
+      "playerType": 2,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
+      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
     },
-                                                
      {
             "key": "juying",
                   "name": "🍿聚影[长按搜索看]",
@@ -85,17 +85,7 @@
         "综艺"
       ]
     },
-    {
-      "key": "大鹏",
-      "name": "🦅大鹏┃4K",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://s.ether-mine.com/api.php/app/"
-    },
+ 
     {
       "key": "彩虹",
       "name": "🌈彩虹4K",
@@ -326,16 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    {
-      "key": "js_ikanbot2",
-      "name": "🤖┃爱看┃机器",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ikanbot2.js"
-    },    {
+    }, {
       "key": "js_bzys",
       "name": "🌋┃B站┃影视",
       "type": 3,
@@ -350,16 +331,7 @@
                         "type": 3,
                               "api": "http://smr.xzam.cn:66/lib/drpy2.min.js",
                                     "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
-    },    {
-            "key": "csp_WoGG",
-                  "name": "👽玩偶哥哥┃4K",
-                        "type": 3,
-                              "api": "csp_WoGG",
-                                    "searchable": 1,
-                                          "quickSearch": 1,
-                                                "changeable": 0,
-                                                      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
-    },
+    }, 
     
     {
       "key": "蘑菇2",
@@ -773,6 +745,14 @@
         "新马泰综艺",
         "纪录片"
       ]
+    },    {
+      "key": "Kuaikan",
+      "name": "👀┃快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "dr_qif",
@@ -1009,6 +989,69 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/DOVX%E6%90%9C%E7%B4%A2.json"
+    },    {
+      "key": "csp_search_七夜",
+      "name": "👴┃七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "csp_search_PanSearch",
+      "name": "🗂️┃盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "csp_search_Yisou",
+      "name": "🐏┃易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "csp_search_Zhaozy",
+      "name": "🐑┃资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+    },
+    {
+      "key": "csp_search_Upyunso",
+      "name": "🐐┃云搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+    {
+      "key": "csp_search_Alips",
+      "name": "🦌┃盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
       {
 			"key": "api_新浪采集",
