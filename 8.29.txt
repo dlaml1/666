@@ -45,7 +45,22 @@
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/菜狗.js"
-    },   {
+    },     {
+            "key": "csp_秋秋",
+                  "name": "🐧腾讯",
+                        "type": 1,
+                              "playerType": 2,
+                                    "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
+                                          "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
+                                                "categories": [
+                                                          "电影",
+                                                                  "电视剧",
+                                                                          "动漫",
+                                                                                  "综艺"
+                                                ]
+    },
+                                                
+     {
             "key": "juying",
                   "name": "🍿聚影[长按搜索看]",
                         "type": 3,
@@ -91,7 +106,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },    {
+            "key": "apv2_梦梦",
+                  "name": "✨帝落┃影视┃测试",
+                        "type": 3,
+                              "playerType": 2,
+                                    "api": "csp_AppYsV2",
+                                          "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
+                                                "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
+    
     {
       "key": "超前",
       "name": "👑超前4K👑",
