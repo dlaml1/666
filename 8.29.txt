@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月9日更新",
+      "name": "🍳┃360官源┃9月15日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -117,16 +117,15 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/4K%E8%B6%85%E5%89%8D.js"
     },
-    {
-      "key": "365",
-      "name": "👑365秒播👑",
+{
+      "key": "mb",
+      "name": "👑夜猫秒播👑",
       "type": 3,
-      "playerType": 2,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
+      "changeable": 1,
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
     {
       "key": "ymym",
@@ -338,7 +337,7 @@
 
 {"key":"玉米", "name": "🌽玉米┃切片", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://caiji.ghlyys.com/yumi/api.php/app/"},{"key": "大鹏","name": "🔌大鹏┃视界","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.jialiangos.com/api.php/app/"},
 
-{"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","ext":"https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/js/txby.js"},{"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
+{"key":"txby","name":"⭐腾讯┃备用","type":3,"api":"https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","ext":"https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/js/txby.js"},
     
     {
       "key": "蘑菇2",
@@ -1395,7 +1394,11 @@
       "name": "超嗅探",
       "type": 3,
       "url": "Web"
-    },{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},  
+    },{"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},      {
+      "name": "火花解析",
+      "type": 1,
+      "url": "http://api.huohua.vip/api/?key=xKNgI3zPGV2iSsc8tB&url="
+    },
 
     {
       "name": "影探专用",
