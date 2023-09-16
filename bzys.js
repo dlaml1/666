@@ -1,6 +1,6 @@
 // 搜索验证
 var rule = {
-    title:'b站影视',
+    title:'B站影视',
     // host:'https://bzhanys.com',
     host:'https://bzhanyy.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
