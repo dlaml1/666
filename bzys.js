@@ -1,8 +1,8 @@
 // 搜索验证
 var rule = {
-    title:'777影视',
+    title:'b站影视',
     // host:'https://bzhanys.com',
-    host:'https://www.777ys1.com/',
+    host:'https://bzhanyy.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
