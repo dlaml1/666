@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月15日更新",
+      "name": "🍳┃360官源┃9月17日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -350,17 +350,17 @@
       "key": "js_bzys",
       "name": "🌋┃B站┃影视",
       "type": 3,
-      "api": "https://jihulab.com/dlaml1/666/-/raw/main/1.js?ref_type=heads",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js?ref_type=heads",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/bzys.js"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
     {
       "key": "drpy_js_花猫TV",
       "name": "😻花猫",
       "type": 3,
-      "api": "http://smr.xzam.cn:66/lib/drpy2.min.js",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js?ref_type=heads",
       "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
     },
 
@@ -373,7 +373,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": "1",
-      "ext": "./json/来米.json"
+      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E6%9D%A5%E7%B1%B3.json?ref_type=heads"
     },
     {
       "key": "玉米",
