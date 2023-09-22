@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月17日更新",
+      "name": "🍳┃360官源┃9月22日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -401,7 +401,7 @@
       "type": 3,
       "api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js",
       "ext": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/js/txby.js"
-    },
+    },{"key": "csp_AppYsV2_嘉靓","name": "嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
     {
       "key": "蘑菇2",
       "name": "🍄️蘑菇┃APP",
