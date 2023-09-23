@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月22日更新",
+      "name": "🍳┃360官源┃9月23日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -271,8 +271,8 @@
     },
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
-{"key": "drpy_追忆","name": "追忆┃TV","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/追忆.js"},
-{"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/乐猪.json"},
+{"key": "drpy_追忆","name": "追忆┃TV","type": 3,"api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/js/%E8%BF%BD%E5%BF%86.js?ref_type=heads"},
+{"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"},
  
 
     {
@@ -294,6 +294,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
+    },    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://cz01.cc/"
     },
     {
       "key": "csp_菲克",
@@ -1027,7 +1037,7 @@
       "name": "🍝┃量子┃采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-      "playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
+      "playUrl": "",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -1063,7 +1073,7 @@
       "name": "🍝┃非凡┃采集",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-      "playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
+      "playUrl": "",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
