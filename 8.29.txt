@@ -270,6 +270,13 @@
       "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E6%9D%A5%E7%B1%B3.json?ref_type=heads"
     },
 { "key": "路人", "name": "🚶路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
+{"key": "csp_达龟","name": "🐢达达龟┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/达达龟.json"},
+{"key": "csp_xBPQ_奇优","name": "🤴奇优┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/奇优.json"},
+{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/萌猫.json"},
+
+{"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"https://jihulab.com/xhkw/vip/-/raw/main//json/北川.json"},
+{"key": "虎虎","name": "🐯Tiger┃TV","type": 3,"api": "csp_XBPQ","ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/虎虎.json"},
+{"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "drpy_追忆","name": "追忆┃TV","type": 3,"api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/js/%E8%BF%BD%E5%BF%86.js?ref_type=heads"},
 {"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"},
@@ -504,7 +511,7 @@
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/星辰.js"
-    },
+    },   
     {
       "key": "csp_aidi_api",
       "name": "🐩爱迪高清APP",
@@ -873,6 +880,14 @@
       "filterable": 0,
       "playerType": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },    {
+      "key": "Kuaikan",
+      "name": "👀┃快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "api_新浪采集",
@@ -1141,6 +1156,41 @@
         "国产动漫",
         "日本动漫",
         "欧美动漫"
+      ]
+    },    {
+      "key": "csp_SNzy",
+      "name": "🐉┃索尼┃高清",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     },
     {
