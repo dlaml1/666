@@ -280,7 +280,7 @@
 
 {"key": "drpy_追忆","name": "追忆┃TV","type": 3,"api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/js/%E8%BF%BD%E5%BF%86.js?ref_type=heads"},
 {"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"},
-{"key": "机顶盒","name": "📺小盒酷玩┃定制机顶盒","type": 3,"api": "https://jihulab.com/dlaml1/666/-/raw/main/apiv61直播转点播.js","searchable": 0,"quickSearch": 0,"ext": "./僵尸.json"},
+{"key": "机顶盒","name": "直播","type": 3,"api": "https://jihulab.com/dlaml1/666/-/raw/main/apiv61直播转点播.js","searchable": 0,"quickSearch": 0,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/僵尸.json"},
 
     {
       "key": "txby",
