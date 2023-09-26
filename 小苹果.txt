@@ -349,7 +349,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
-    }                   {
+    },                   {
       "key": "YQK_spider",
       "name": "🙆┃一起┃电视",
       "api": "csp_YQKAPP",
@@ -427,6 +427,10 @@
       "header":{
       "User-Agent": "okhttp/4.9.3"
     }
+    }  ,  {
+      "name": "🌽玉米",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url="
     }],
 
 
