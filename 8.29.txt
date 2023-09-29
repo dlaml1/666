@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月24日更新",
+      "name": "🍳┃360官源┃9月29日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -279,7 +279,27 @@
 {"key":"速度","name":"🚙速度┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key": "drpy_追忆","name": "追忆┃TV","type": 3,"api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/js/%E8%BF%BD%E5%BF%86.js?ref_type=heads"},
-{"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"},
+{"key": "csp_乐猪","name": "🐷乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"},         {"key": "csp_YQKan_一起看",    "name" :"🦄一起","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.jar"},
+             {
+      "key": "蚂蚁",
+      "name": "🐜蚂蚁",
+      "type": 3,
+      "api": "csp_Mayiys",
+       "jar":" https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;533f279c487b5bd34cf4947a7afbee34",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://rzys.xyz"
+    },    {"key":"快帆",
+       "name":"🦄快帆",
+       "type":1,
+       "api":"https://api.kuaifan.tv/api.php/provide/vod",        {
+            "key": "子子",
+            "name": "👼子子",
+            "type": 3,
+            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
+            "ext": "http://8.210.232.168/ys/dr_py/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+        },
 {"key": "机顶盒","name": "直播","type": 3,"api": "https://jihulab.com/dlaml1/666/-/raw/main/apiv61直播转点播.js","searchable": 0,"quickSearch": 0,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/僵尸.json"},
 
     {
@@ -1237,7 +1257,8 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
+    },        {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {"key":"Ikun资源","name":"Ikun资源(切片)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
     {
       "key": "push_agent",
       "name": "📽推送",
