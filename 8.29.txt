@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃9月30日更新",
+      "name": "🍳┃360官源┃10月1日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -2194,7 +2194,7 @@
     {
       "name": "🐱0号",
       "type": 0,
-      "url": "http://91fanli.top/m3u8/?url=",
+      "url": "https://j.gqing.vip/player/ec.php?code=qw&if=1&url=",
       "ext": {
         "flag": [
           "qq",
@@ -2240,7 +2240,7 @@
     {
       "name": "🐱2号",
       "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "url": "https://www.yemu.xyz/v/d.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -2698,9 +2698,9 @@
       }
     },
     {
-      "name": "🐱战狼",
+      "name": "🐱完美解析",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url",
+      "url": "https://j.gqing.vip/player/ec.php?code=qw&if=1&url=",
       "ext": {
         "flag": [
           "qq",
