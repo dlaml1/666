@@ -51,8 +51,8 @@
             "name": "🐧腾讯",
             "type": 3,
             "playerType": 2,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-               "playUrl":"https://api.huohua.vip/api/bfq/?key=mhdUAaoVSdV1RMevgW&url=",
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","playUrl":"https://jx.xmflv.com/?url=",
+
             "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/腾讯.js"
         },
     {
@@ -237,13 +237,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
-    {
-      "key": "drpy_js_花猫TV",
-      "name": "😻花猫",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js?ref_type=heads",
-      "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
-    },
+    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/花猫.json"},
     {
       "key": "来米影视",
       "name": "🌾来米┃影视",
@@ -1521,12 +1515,12 @@
           "User-Agent": "Dart/3.0(dart:io)"
         }
       }
-    },
-    {
-      "name": "备用火花解析",
-      "type": 1,
-      "url": "http://api.huohua.vip/api/?key=xKNgI3zPGV2iSsc8tB&url="
-    },
+    },        {
+            "name": "神秘的哥哥们",
+            "type": 1,
+            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+        },
+    
     {
       "name": "夜猫超解析",
       "type": 1,
@@ -1821,9 +1815,7 @@
           "User-Agent": "okhttp/3.12.0"
         }
       }
-    },
-
-
+    },       
     {
       "name": "🐱夜幕/",
       "type": 0,
@@ -1869,7 +1861,14 @@
           "User-Agent": "Dart/3.0(dart:io)"
         }
       }
-    },
+    }, {
+		"name": "777",
+		"type": 0,
+		"url": "https://jx.777jiexi.com/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}   
+	},
 
     {
       "name": "完美",
