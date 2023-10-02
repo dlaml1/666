@@ -55,6 +55,8 @@
 
             "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/腾讯.js"
         },
+
+{"key":"drpy_js_哔哩影视","name":" 哔哩影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"},
     {
       "key": "tengxun",
       "name": "⭐腾讯┃4K",
@@ -466,6 +468,7 @@
       "changeable": 1,
       "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
     },
+{"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"},
     {
       "key": "csp_低端",
       "name": "🚜低端|蓝光",
