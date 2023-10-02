@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月1日更新",
+      "name": "🍳┃360官源┃10月2日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -211,17 +211,7 @@
       "ext": {
         "分类url": "https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"
       }
-    },{
-            "key": "App热剧",
-            "name": "👑热剧高清4K👑",
-            "type": 3,
-            "playerType": 2,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "changeable": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"
-        },
+    },
     {
       "key": "辣辣",
       "name": "🌶️┃辣辣┃影视",
@@ -1487,9 +1477,13 @@
           "User-Agent": "okhttp/3.12.11"
         }
       }
+    },    {
+      "name": "火花解析",
+      "type": 1,
+      "url": "https://api.huohua.vip/api/bfq/?key=mhdUAaoVSdV1RMevgW&url="
     },
     {
-      "name": "火花解析",
+      "name": "备用火花解析",
       "type": 1,
       "url": "http://api.huohua.vip/api/?key=xKNgI3zPGV2iSsc8tB&url="
     },
@@ -1787,19 +1781,7 @@
           "User-Agent": "okhttp/3.12.0"
         }
       }
-    },        {
-            "name": "仓蓝全能嗅探",
-            "type": 0,
-            "url": "https://www.youleshi.cn/player/?url=",
-            "ext": {
-                "flag": [
-                    "canglan"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        },
+    },
 
 
     {
@@ -2304,7 +2286,7 @@
     },    {
       "name": "🐱11号",
       "type": 0,
-      "url": "https://api.qianqi.net/vip/?url=",
+      "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
         "flag": [
           "qq",
