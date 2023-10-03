@@ -521,7 +521,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": "1",
-      "ext": "./777.json"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/777.json?ref_type=heads"
     },
     {
       "key": "csp_Mp4Mov",
