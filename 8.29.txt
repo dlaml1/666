@@ -2,10 +2,21 @@
   "spider": "https://jihulab.com/ymz1231/jar/-/raw/main/xym.jar",
   "warningText": "本接口完全免费",
   "wallpaper": "https://yun.chuqiuyu.tk",
+  "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://iptvindex.com/tv.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "playerType": 1
+        }
+    ],
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月2日更新",
+      "name": "🍳┃360官源┃10月3日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -501,6 +512,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E8%8F%B2%E5%85%8B.json"
+    },    {
+      "key": "777影视",
+      "name": "777┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": "1",
+      "ext": "./777.json"
     },
     {
       "key": "csp_Mp4Mov",
@@ -1699,7 +1720,7 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://jxjson.cf/json.php?url=",
+      "url": "https://jxjson.cf/json_balabala.php?url=",
       "header": {
         "User-Agent": "okhttp/4.9.3"
       }
