@@ -302,7 +302,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="僵尸先生" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="测试频道",僵尸先生
 https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20220916/15286756dE9cQPauKDKyXLuhPF.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
-https://www.aliyundrive.com/s/CBmZBezmuQJ
+https://ccp-bj29-video-preview-hz.oss-cn-hangzhou.aliyuncs.com/lt/5BF0B23078EA8D9398183C281DECFAA4E5C06EF9_1830750__sha1_bj29_07caf6d9/HD/ref_task.m3u8?di=bj29&dr=539807892&f=651d61458d27c79f7749496d9bd52ca6db36268f&security-token=CAIS%2BgF1q6Ft5B2yfSjIr5DFetz2iYdA2q2zcmXh1zYZaNpOmJ3B2zz2IHFPeHJrBeAYt%2FoxmW1X5vwSlq5rR4QAXlDfNX28LG6PqFHPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLukMWr%2Fwq3PIdp2ma447NWQlLnzyCMvvJ9OVDFyN0aKEnH7J%2Bq%2FzxhTPrMnpkSlacGoABZnBif2wY5NZEZGOAecvwx0Z5F4ovPcaK6UWrhmgwT8b8%2Bk1zUn784EcaysoQxFbfFX1KzJQAQN1EK63Fgq9397k3KqXOI2qNHd6VpMgfedyVpz76OWTzKgsstReVS6eoVAEvUjB1FKoRGCjpo2mTvNJ1%2FwzQWUweEDdZ5L91qPogAA%3D%3D&sl=CBmZBezmuQJ&u=anonymous&x-oss-access-key-id=STS.NSp1fBdXamoXpCP36LdUbwXj9&x-oss-expires=1696426086&x-oss-process=hls%2Fsign%2Cparams_ZGksZHIsZix1LHNs&x-oss-signature=8lJyNMAyzv7E%2FyryJAe71krx41xv7TdwRIHPMU%2BzoR8%3D&x-oss-signature-version=OSS2
 #EXTINF:-1 group-title="测试频道",韩·BBS佛教
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 group-title="测试频道",韩·EBS-1
