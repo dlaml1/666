@@ -302,7 +302,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="僵尸先生" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="测试频道",僵尸先生
 https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20220916/15286756dE9cQPauKDKyXLuhPF.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+https://www.aliyundrive.com/s/CBmZBezmuQJ
 #EXTINF:-1 group-title="测试频道",韩·BBS佛教
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 group-title="测试频道",韩·EBS-1
