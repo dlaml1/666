@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月4日更新",
+      "name": "🍳┃360官源┃10月6日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -282,16 +282,16 @@
       "filterable": 1,
       "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/达达龟.json"
     },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🤴奇优┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/奇优.json"
-    },
+         {
+            "key": "csp_xBPQ_奇优",
+            "name": "🅱️奇优影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.cc:88/hccx/奇优影视.json"
+        },
     {
       "key": "萌猫",
       "name": "🐼萌猫┃影视",
@@ -375,7 +375,34 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
+    },    {
+            "key": "csp_Free",
+            "name": "🅱️Free影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.cc:88/hccx/Free影视.json"
+        },        {
+            "key": "csp_真不卡",
+            "name": "🅱️不卡影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.cc:88/hccx/真不卡影视.json"
+        },        {
+            "key": "csp_好戏",
+            "name": "🅱️好戏影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://rihou.cc:88/hccx/好戏影视.json"
+        },     
     {
       "key": "快帆",
       "name": "🦄快帆",
