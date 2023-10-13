@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月6日更新",
+      "name": "🍳┃360官源┃10月13日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -251,19 +251,9 @@
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
     {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/花猫.json"},
-    {
-      "key": "来米影视",
-      "name": "🌾来米┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": "1",
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E6%9D%A5%E7%B1%B3.json?ref_type=heads"
-    },       {
+        {
             "key": "csp_apptt_ttys",
-            "name": "图图TV内部测试版本",
+            "name": "图图TV",
             "type": 3,
             "api": "csp_APPTT",
                 "jar": "https://jihulab.com/dlaml1/666/-/raw/main/1697021642.txt",
@@ -474,17 +464,41 @@
       "api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js",
       "ext": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/js/txby.js"
     },
-    {
-      "key": "csp_AppYsV2_嘉靓",
-      "name": "嘉靓影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms.jialiangos.com/api.php/app/"
-    },{
+            {
+            "key": "蜗牛有广告",
+            "name": "🐌┃蜗牛┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
+        },{
+            "key": "csp_AppYsV2_365",
+            "name": "🐟️┃天天┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
+        },        {
+            "key": "鑫鑫影视",
+            "name": "🥇┃鑫鑫┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+        },{
+            "key": "加亮",
+            "name": "🪔┃加亮┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://api.jialiangos.com:88/api.php/app/"
+        },{
       "key": "毛驴",
       "name": "🍓毛驴┃直连 4K",
       "type": 3,
@@ -1516,19 +1530,7 @@
       "url": "http://61.147.93.21:8090/index.php?url="
     },
     {
-      "name": "影探专用",
-      "type": 1,
-      "url": "http://jiexi.lyyytv.cn/json.php?url=",
-      "ext": {
-        "flag": [
-          "XY"
-        ],
-        "header": {
-          "User-Agent": "okhttp/3.12.11"
-        }
-      }
-    },     {
-      "name": "主火花解析",
+      "name": "火花解析",
       "type": 1,
       "url": "https://api.huohua.vip/api/?key=mhdUAaoVSdV1RMevgW&url="
     },    {
