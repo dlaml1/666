@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月14日更新",
+      "name": "🍳┃360官源┃10月20日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -551,9 +551,22 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "ext": "https://cz0101.com/"
+      "ext": "https://www.czz9.com/"
     },
-{"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://小盒酷玩.fun:66/json/厂长.json"},
+   {
+      "key": "jojo弹幕直连",
+      "name": "♻️JOJO弹幕版|直连",
+      "type": 3,
+      "jar": "http://111.67.195.139/yydf/lib/danmu.jar",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+
     {
       "key": "csp_菲克",
       "name": "🍾菲克影视",
