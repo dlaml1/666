@@ -471,7 +471,7 @@
       "name": "🍊橘子┃直连 4K",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64fa98fbba7758f483e6e82dea311f77",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -481,7 +481,7 @@
       "name": "👻Mino┃App 4K",
       "type": 3,
       "api": "csp_Appto",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64fa98fbba7758f483e6e82dea311f77",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -498,7 +498,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
-    },{"key":"嘿嘿","name":"嘿嘿┃App","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1"},
+    },{"key":"嘿嘿","name":"嘿嘿┃App","type":3,"api":"csp_DDMJ",
+       "jar": "http://cdn.qiaoji8.com/fix1170.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1"},
 {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
