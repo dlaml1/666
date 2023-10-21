@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃10月20日更新",
+      "name": "🍳┃360官源┃10月21日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -67,7 +67,6 @@
             "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/腾讯.js"
         },
 
-{"key":"drpy_js_哔哩影视","name":" 哔哩影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",      "searchable": 0,      "quickSearch": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"},
     {
       "key": "tengxun",
       "name": "⭐腾讯┃4K",
@@ -114,17 +113,7 @@
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://jihulab.com/ymz1231/js/-/raw/main/4K%E8%B6%85%E5%89%8D.js"
     },
-    {
-      "key": "影探4K2",
-      "name": "👑新夜猫子👑",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
-    },
+   
     {
       "key": "csp_appysv2_迷你库",
       "name": "👑夜猫迷你2k👑",
@@ -486,7 +475,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
     },    {
       "key": "Mino",
       "name": "👻Mino┃App 4K",
@@ -496,7 +485,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"},
     {
@@ -509,7 +498,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
-    },
+    },{"key":"嘿嘿","name":"嘿嘿┃App","type":3,"api":"csp_DDMJ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1"},
 {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
@@ -528,7 +517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/厂长.js"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/厂长js"
     },
    {
       "key": "jojo弹幕直连",
@@ -1629,9 +1618,22 @@
         }
       }
     },        {
-            "name": "神秘的哥哥们",
+            "name": "左岸解析",
             "type": 1,
-            "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+        },     {
+            "name": "YuMi-vip🥭",
+            "type": 1,
+            "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
+            "ext": {
+                "flag": [
+                    "YuMi-vip"
+                ]
+            }
+        },{
+            "name": "叉车解析",
+            "type": 1,
+            "url": "http://cache.json.icu/1804857380.php?url="
         },
     
     {
@@ -1819,35 +1821,7 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
     },
-    {
-      "name": "🎯VIP",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+
     {
       "name": "🎯VIP1",
       "type": 1,
@@ -1860,40 +1834,7 @@
         ]
       }
     },
-    {
-      "name": "🎯VIP2",
-      "type": 0,
-      "url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "Lavf/58.12.100"
-        }
-      }
-    },
-    {
-      "name": "左岸解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
+ 
     {
       "name": "战狼",
       "type": 0,
