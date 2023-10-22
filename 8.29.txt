@@ -218,7 +218,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
+   "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
     },
     {
       "key": "七七",
@@ -240,17 +240,7 @@
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
     {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/花猫.json"},
-        {
-            "key": "csp_apptt_ttys",
-            "name": "图图TV",
-            "type": 3,
-            "api": "csp_APPTT",
-                "jar": "https://jihulab.com/dlaml1/666/-/raw/main/1697021642.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "pcnBMY0w5bjNJRkh0anpQKnw2cE1NY1RjR2JBTDVFUGxkTW1FZXdhUkhiVlVzanpQKnxodHRwOi8vMTE5LjEwMS4xNDguMTI1OjU1NjYv"
-        },
+  {"key":"K影","name":"K影院┃App","type":3,"api":"csp_AppYsV2","jar": "http://cdn.qiaoji8.com/fix1021.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
     {
       "key": "路人",
       "name": "🚶路人┃秒播",
@@ -394,7 +384,7 @@
       "type": 3,
       "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
       "ext": "http://8.210.232.168/ys/dr_py/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
-    },
+    },{"key":"看看","name":"看看┃App","type":3,"api":"csp_KanKan","jar": "http://cdn.qiaoji8.com/fix1021.jar","searchable":1,"quickSearch":1,"filterable":0},
     {
       "key": "机顶盒",
       "name": "直播",
@@ -421,22 +411,7 @@
       "api": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/lib/drpy2.min.js",
       "ext": "https://jihulab.com/xhkw/vip/-/raw/6f608668e4ad71e87eff2be7ce074924c14c6156/js/txby.js"
     },
-            {
-            "key": "蜗牛有广告",
-            "name": "🐌┃蜗牛┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
-        },{
-            "key": "csp_AppYsV2_365",
-            "name": "🐟️┃天天┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://mp4.ghlyys.com:916/api.php/app/"
-        },        {
+  {
             "key": "鑫鑫影视",
             "name": "🥇┃鑫鑫┃影视",
             "type": 3,
@@ -529,8 +504,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
-    },{"key":"嘿嘿","name":"嘿嘿┃App","type":3,"api":"csp_DDMJ",
-       "jar": "http://cdn.qiaoji8.com/fix1170.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.248.129.116:6688/appto/v1"},
+    },
 {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
@@ -644,7 +618,7 @@
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html#?url=http"
     }
-    },
+    },{"key":"喵喵","name":"喵喵┃App","type":3,"api":"csp_Appto","jar": "http://cdn.qiaoji8.com/fix1021.jar","playerType":2,"ext":"LV06Bwf1IqCvCECepSCn4qV2bM4V8EBht1OE3hBzrH9GyAa8/a41aynh8h0yAhuYumDP/bS0DA1QnbmPRQKyikp05fgrDnFaxHJFP287vblsUg3Q5QwZlm5WEp4xp0L/HjE+V5fYmLwo8aZAblR9YJvgraRiCBewvH9+cWN+TR7iTBufOdDXsDZpY4vUy6XvHMx2+qkgXCSU5yYvuErBsEDKS2PuGmDmHBpq5W6xZ3xHZZQfZreVaKwt8LElzh5RaVKRn5NbEChpQt2C0wqPmedbjpgu/GYH/LLceQUK5w0LMUZKBAQo6PTwgSgkzolcJnzperBpnIhC7uY+n8a3D9UZB8KDx+wsqai9M9bH5d5+/3flwaYMEVRmmOMgtGxAQr0wqhFltPCEtDvnHltBj6MZitjQZV1Tta0nwoP2awf2R3JIYwm7S5ph4m8RWts/SGrD/n9NrmRnB5rLa0M6VHMGp+s/kXzHmul50DmOXQryhMOg+V+z5kFucczLSCLBur4bqaVuAKo57Wcn1Tle61LOpqWBwEL3m9nZ9ht3vrIncP3dRvwAvgos1eGhlQuQJX9cyR7nV5D8nnEGDQ0nFnDx1Ub6gK48gpItiVE3657JLlaq/d1NszzvxwREtCnOpfFWT03o3VHwR9tDPsz7L2wj6BQr7Zo7X/Vqu4bbL2CI="},{"key":"艾艾","name":"艾艾┃App","type":3,"api":"csp_Appto","jar": "http://cdn.qiaoji8.com/fix1021.jar","playerType":2,"ext":"VMfUhS61kRW7GWp9KwE9iqjJXgW9E2+zR7GutsYxbHKiW+/SRrz9gtBB3al6TbiUkUyPCkvpc/uxZKjCNGh8WWeWVC51swj42vr2uJS6TqdKaoGqabTRpEmbD58QayebcMamrybdJckkx9eFezXydnsVhFeF5vsGZN8/ypcnVWixWHrOLbFD1/bPNnRjs4UFMV0bnMS/4MzgC288BbQ0XjvUrPNaBz7fVqVfG3QElyZxUekL9kgIEcOC6BGLeAzB3kHsQff7BHUFImL5uzETcq3d6bQ+dYI/4Gq0N7PMSeO2KSKA+GoX2kNIUv9xD0tEcSRW5hFNjUKuTcMiyTWL6CEmVqhfZ4wT8Jg8jJCdq7zBVpgnI3PDurdZIJMGI3aQuTgDiV2JzWD+m3PIN3MoDFAkK8yJ2/GwxSVbfVByI+beGRoiZ8+q+GqUopvSqw75voI+FbS5yXUKFqtD+oFMWvOx1mLRN69Hehkxt3CbAKU833Y+bvvpvTp06V9KSR68Duc6NWfdHsnYCisnGF1c/UtIEyAj4WYbXIzf7wWzO5slRtlIauOfR+hQQeqip2VrjEWV09kZDjdH0YFASJPOzlY1WJi6FLfOxYBkhq1O1U0JzOETqM/6C3W4yTpGsv2urW58ByomR7C8GhaW2sn74AVy9UJR+eI9HHvlWy/OODd4="},{"key":"嘿嘿","name":"嘿嘿┃App","type":3,"api":"csp_DDMJ","jar": "http://cdn.qiaoji8.com/fix1021.jar","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":"ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30="},
     {
       "key": "csp_Mp4Mov",
       "name": "🧲磁力Mp4电影",
@@ -803,14 +777,7 @@
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
-    {
-      "key": "drpy_js_荐片",
-      "name": "👑 | 荐片蓝光",
-      "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/荐片.js",
-      "playerType": "1"
-    },
+
     {
       "key": "csp_slgq",
       "name": "🏵️石榴蓝光",
@@ -831,17 +798,7 @@
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/映迷影院.js"
     },
 
-    {
-      "key": "csp_aidi_api",
-      "name": "🐩爱迪高清APP",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
+  
     {
       "key": "csp_ggun",
       "name": "🌵光棍高清",
@@ -1713,7 +1670,7 @@
           "User-Agent": "Dart/3.0(dart:io)"
         }
       }
-    },
+    },{"name":"K影院解析","type":1,"url":"http://pandown.pro/app/lvdou.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS"]}},
     {
       "name": "夜猫超聚合",
       "type": 1,
