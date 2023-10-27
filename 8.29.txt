@@ -1491,11 +1491,7 @@
       "type": 3,
       "url": "Web"
     },
-    {
-      "name": "🌽玉米",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url="
-    },
+
     {
       "name": "火花解析",
       "type": 1,
@@ -1558,6 +1554,30 @@
                     "YuMi-vip"
                 ]
             }
+        },    {
+      "name": "解析1",
+      "type": 1,
+      "url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="
+    },  {
+            "name": "解析2",
+            "type": 1,
+            "url": "https://b.zzxjx.xyz/index/info?secretkey=11ab3f57954594d249289e0898fe6a98&file_id="
+        },  {
+            "name": "解析3",
+            "type": 1,
+            "url": "http://110.42.2.98:2222/api/?key=dXVSZKYgTl96F51xWi&url="
+        },  {
+            "name": "解析4",
+            "type": 1,
+            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=" }, {
+            "name": "解析5",
+            "type": 1,
+            "url": "https://json.oorl.cn/api/?key=j5PkI0K5GEl1W2OxqM&url="
+        },
+          {
+            "name": "解析6",
+            "type": 1,
+            "url": "https://api.json.icu/api/?key=13f724930b1801f77682cd9fdbd924b5&url="
         },
     
     {
