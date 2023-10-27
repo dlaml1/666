@@ -705,28 +705,8 @@
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
     },
-    {
-      "key": "csp_XYQHikerlg4k",
-      "name": "💋玩偶姐姐4k",
-      "type": 3,
-      "playerType": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/4KHDR.json"
-    },
-    {
-      "key": "csp_XYQHiker4klg",
-      "name": "💅🏻玩偶妹妹4k",
-      "type": 3,
-      "playerType": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json"
-    },
+ 
+
     {
       "key": "csp_XYQHiker_‍dyx",
       "name": "🚢电影港磁力4k",
@@ -757,17 +737,7 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
 
-    {
-      "key": "csp_slgq",
-      "name": "🏵️石榴蓝光",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E7%9F%B3%E6%A6%B4%E9%AB%98%E6%B8%85.json"
-    },
+
     {
       "key": "dr_ymi",
       "name": "⭐┃映迷蓝光┃",
@@ -822,17 +792,7 @@
       "searchable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6080.json"
     },
-    {
-      "key": "csp_XBPQ_nmys",
-      "name": "🚲┃农民┃",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
-    },
+  
     {
       "key": "csp_XBPQ_thys",
       "name": "⛴️┃土豪┃影视",
@@ -1598,10 +1558,6 @@
                     "YuMi-vip"
                 ]
             }
-        },{
-            "name": "叉车解析",
-            "type": 1,
-            "url": "http://cache.json.icu/1804857380.php?url="
         },
     
     {
@@ -1743,11 +1699,7 @@
       }
     },
  
-    {
-      "name": "白茶嗅探",
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "showType": 1
-    },
+  
     {
       "name": "巧技解析",
       "type": 1,
