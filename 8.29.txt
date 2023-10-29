@@ -250,7 +250,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/达达龟.json"
-    },
+    },{"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
          {
             "key": "csp_xBPQ_奇优",
             "name": "🅱️奇优影视|T追剧",
@@ -351,16 +351,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://rihou.cc:88/hccx/Free影视.json"
-        },        {
-            "key": "csp_真不卡",
-            "name": "🅱️不卡影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rihou.cc:88/hccx/真不卡影视.json"
-        },        {
+        },          {
             "key": "csp_好戏",
             "name": "🅱️好戏影视|T追剧",
             "type": 3,
@@ -1443,7 +1434,7 @@
         },     {
             "name": "YuMi-vip🥭",
             "type": 1,
-            "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
+            "url": "https://www.qiaoji8.com/tvbox/json.php?url=",
             "ext": {
                 "flag": [
                     "YuMi-vip"
