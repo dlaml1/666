@@ -473,7 +473,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%e4%bd%8e%e7%ab%af%e5%bd%b1%e8%a7%86.json"
-    },
+    },{"key":"csp_sp_龙门影视","name":"推荐┃龙门影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://movie.iqinu.com/api.php/v1.vod"},
 
    {
       "key": "jojo弹幕直连",
