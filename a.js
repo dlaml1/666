@@ -2,7 +2,7 @@
         title: '抖音追忆tv', // csp_AppYsV2
         host: 'http://122.228.85.175:8848/',
         //hostJs: 'print(HOST);let html=request(HOST,{headers:{"User-Agent":"Dart/2.1.9 (dart:io)"}});let src = JSON.parse(html).domain;print(src);HOST=src',
-        url: '/api.php/app/video?tid=fyclassfyfilter&limit=18&pg=fypage',
+        url: 'http://122.228.85.175:8848/appto/v1/config/get?p=android',
         //     http://ym.dytt996.com:3/api.php/app/video?tid=20&class=&area=&lang=&year=&limit=18&pg=1
         filter_url: '&class={{fl.class}}&area={{fl.area}}&lang={{fl.lang}}&year={{fl.year}}',
        filter: {
