@@ -1477,7 +1477,15 @@
             "name": "解析8",
             "type": 1,
             "url": "https://api.json.icu/api/?key=15cfa8c0854a4cf4fd819bb2103ce9c9&url="
-        },
+        },  {
+            "name": "解析9",
+            "type": 1,
+            "url": "http://122.228.85.175:9898/api/jsonindex.php/?key=w8Nyb5m0xjIcERmV18&url="
+        },  {
+            "name": "解析9",
+            "type": 1,
+            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url="
+        }, 
     {
       "name": "夜猫超解析",
       "type": 1,
