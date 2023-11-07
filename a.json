@@ -1,7 +1,7 @@
 {
   "author": "20220606",
   "name": "瓜皮TV",
-  "url": "http://122.228.85.175:8848/",
+  "url": "http://121.62.23.209:6688/",
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空",
   "shouye": "1",
@@ -28,7 +28,7 @@
 
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "http://122.228.85.175:8848/appto/v1/vod/getVodSearch?text=**&pg=fypage",
+  "sousuoqian": "http://121.62.23.209:6688/appto/v1/vod/getVodSearch?text=**&pg=fypage",
   "sousuohou": "&limit=500",
  // "sousuohouzhui": "/index.php/vod/detail/id/", //搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
