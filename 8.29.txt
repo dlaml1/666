@@ -1458,7 +1458,7 @@
             "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=" }, {
             "name": "解析5",
             "type": 1,
-            "url": "https://json.oorl.cn/api/?key=j5PkI0K5GEl1W2OxqM&url="
+            "url": "https://api.xn--od1aq39b.net/api/?key=HpAaEBSpOxTfEEpdBc&url="
         },
           {
             "name": "解析6",
@@ -1482,7 +1482,7 @@
             "type": 1,
             "url": "http://122.228.85.175:9898/api/jsonindex.php/?key=w8Nyb5m0xjIcERmV18&url="
         },  {
-            "name": "解析9",
+            "name": "解析10",
             "type": 1,
             "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url="
         }, 
@@ -1665,7 +1665,7 @@
     {
       "name": "🎯超级解析",
       "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="
+      "url": "http://svip.feifan12.xyz/api/?key=z4AS3kUTNOGdmrmaXS&url="
     },
 
     {
