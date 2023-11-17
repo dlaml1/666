@@ -229,18 +229,15 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
-    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/花猫.json"},
-  {"key":"K影","name":"K影院┃App","type":3,"api":"csp_AppYsV2","jar": "http://cdn.qiaoji8.com/fix1021.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-    {
-      "key": "路人",
-      "name": "🚶路人┃秒播",
+    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/花猫.json"},    {
+      "key": "drpy_js_花猫TV",
+      "name": "😻花猫",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
     },
+
+
     {
       "key": "csp_达龟",
       "name": "🐢达达龟┃影视",
@@ -249,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/达达龟.json"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/达达龟.json"
     },{"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
          {
             "key": "csp_xBPQ_奇优",
@@ -267,21 +264,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/萌猫.json"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/萌猫.json"
     },
-    {
-      "key": "bei",
-      "name": "🗻北川┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main//json/北川.json"
-    },
+ 
     {
       "key": "虎虎",
       "name": "🐯Tiger┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/虎虎.json"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/虎虎.json"
     },
     {
       "key": "速度",
@@ -303,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/xhkw/vip/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"
     },
     {
       "key": "csp_YQKan_一起看",
@@ -380,7 +371,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/163063/43nmys.txt?sign=qPQ9qJx8VNYb7M-8xC4SfaLM14qwllkCuYBaJHdrICM%3D%3A0"
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/农民.json"
     },
     {
       "key": "txby",
