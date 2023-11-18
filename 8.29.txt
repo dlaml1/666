@@ -231,41 +231,7 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
-    },		{
-			"key": "好戏",
-			"name": "👑好戏超清👑",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"主页url": "https://haoxi.vip/",
-				"简介": "简介：&&</li>",
-				"导演": "导演：&&</li>",
-				"主演": "主演：&&</li>",
-				"影片状态": "状态：&&</li>",
-				"影片类型": "类型：&&</li>",
-				"影片地区": "地区：&&</li>",
-				"影片年代": "年份：&&</li>",
-				"嗅探词": "aliyuncs.com#.m3u8?#m3u8",
-				"数组": "_self\" class=\"public-list-exp\"&&</div>",
-				"标题": "title=\"&&\"",
-				"副标题": "public-list-prb hide ft2\">&&</span>",
-				"图片": "data-src=\"&&\"",
-				"搜索url": "https://haoxi.vip/vodsearch/{wd}----------1---/",
-				"搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
-				"搜索标题": "<a target=\"_self\" href=*>&&</a>",
-				"搜索副标题": "public-list-prb hide ft2\">&&</span>",
-				"搜索图片": "data-src=\"&&\"",
-				"线路数组": "<i class=\"fa ds-dianying\">&&/a>",
-				"线路标题": "</i>&&<",
-				"播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
-				"播放标题": ">&&</a>",	
-				"播放列表": "<li&&</li>",
-				"线路二次截取": "<div class=\"swiper-wrapper\"&&</div>","跳转解析": "默认$空#优酷VIP$https://haoxi.vip/addons/dp/player/dp.php?url=#腾讯VIP$https://haoxi.vip/addons/dp/player/dp.php?url=#爱奇艺VIP$https://haoxi.vip/addons/dp/player/dp.php?url=",
-                "跳转播放链接": "解析+urlDecode(Base64(vod_class*url\":\"&&\"))",
-				"分类url": "https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;a",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
-			}
-		},
+    },		
                 
 
     {
@@ -409,7 +375,7 @@
             "key": "csp_好戏",
             "name": "🅱️好戏影视|T追剧",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XBPQ","playUrl":"json:https://haoxi.vip/addons/dp/player/dp.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
