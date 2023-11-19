@@ -1182,7 +1182,7 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"./json/ikanbot3.js"},
+    },{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/dlaml1/666/-/raw/main/json/ikanbot3.js?ref_type=heads"},
     {
       "key": "csp_SNzy",
       "name": "🐉┃索尼┃高清",
