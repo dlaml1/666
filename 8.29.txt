@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃11月17日更新5525",
+      "name": "🍳┃360官源┃11月19日更新5525",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -1360,7 +1360,7 @@
         },     {
             "name": "YuMi-vip🥭",
             "type": 1,
-            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=,
+            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=",
             "ext": {
                 "flag": [
                     "YuMi-vip"
