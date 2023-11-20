@@ -242,7 +242,7 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },		    {
-      "key": "追忆",
+      "key": "追忆tv",
       "name": "追忆4K",
       "type": 3,
       "api": "csp_AppYsV2",    "playUrl": "json:http://115.231.220.36:8801/jx/tvbox/1314.php?url=",
