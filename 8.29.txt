@@ -241,7 +241,17 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
-    },		
+    },		    {
+      "key": "追忆",
+      "name": "追忆4K",
+      "type": 3,
+      "api": "csp_AppYsV2",    "playUrl": "json:http://115.231.220.36:8801/jx/tvbox/1314.php?url=",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://110.42.7.101:2233/api.php/app/"
+    },
                 
 
     {
