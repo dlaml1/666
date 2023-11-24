@@ -407,7 +407,7 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="测试频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="测试频道",香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",僵尸
+https://d1--cn-gotcha101.bilivideo.com/live-bvc/746720/live_3494375743032210_50252964_1500.m3u8?expires=1700834088&len=0&oi=0x24098a384c27cb40a46cc355e2fac9d6&pt=html5&qn=0&trid=1003737e19f425cf4caeb7c68541c1158093&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=a688c6179357973e2afe09476c9759c8&sk=d7c69538fbe3e3cff9e54d78ac021807&p2p_type=0&sl=2&free_type=0&mid=0&pp=srt&source=onetier&trace=40&site=fa7d7b757926b43d611336655dcf5683&zoneid_l=151388163&sid_l=live_3494375743032210_50252964_1500&order=1
 #EXTINF:-1 group-title="测试频道",香港佛陀
 https://d1--cn-gotcha101.bilivideo.com/live-bvc/746720/live_3494375743032210_50252964_1500.m3u8?expires=1700834088&len=0&oi=0x24098a384c27cb40a46cc355e2fac9d6&pt=html5&qn=0&trid=1003737e19f425cf4caeb7c68541c1158093&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=a688c6179357973e2afe09476c9759c8&sk=d7c69538fbe3e3cff9e54d78ac021807&p2p_type=0&sl=2&free_type=0&mid=0&pp=srt&source=onetier&trace=40&site=fa7d7b757926b43d611336655dcf5683&zoneid_l=151388163&sid_l=live_3494375743032210_50252964_1500&order=1
