@@ -740,7 +740,7 @@
             "filterable": 1,
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
         },
-    },
+    
     {
       "key": "暴风采集",
       "name": "🍃┃暴风┃高清",
