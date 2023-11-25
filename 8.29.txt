@@ -328,7 +328,7 @@
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
+            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"},
 
     {
       "key": "csp_达龟",
