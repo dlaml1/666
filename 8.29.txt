@@ -2,17 +2,28 @@
   "spider": "https://jihulab.com/ymz1231/jar/-/raw/main/xym.jar",
   "warningText": "本接口完全免费",
   "wallpaper": "https://yun.chuqiuyu.tk",
-  "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-            "playerType": 1
-        }
-    ],
+ "lives": [
+      {
+         "name": "live",
+         "type": 0,
+         "playerType": 1,
+         "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tansuotv/IPTVindex/main/tv/tv.txt",
+         "ua": "okhttp/3.12.13",
+         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
+      },
+      {
+         "group": "redirect",
+         "channels": [
+            {
+               "name": "redirect",
+               "urls": [
+                  "proxy://do=live&type=txt&ext="
+               ]
+            }
+         ]
+      }
+   ],
   "sites": [
     {
       "key": "csp_SP360",
