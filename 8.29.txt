@@ -1405,52 +1405,15 @@
             "type": 1,
             "url": "https://api.xn--od1aq39b.net/api/?key=HpAaEBSpOxTfEEpdBc&url="
         },
-          {
+            {
             "name": "解析6",
             "type": 1,
-            "url": "https://api.json.icu/api/?key=13f724930b1801f77682cd9fdbd924b5&url="
-        },
-                  {
+            "url": "http://api.xmystv.cn:880/api/?key=kpFCtu0EXORBcoe4JN&url="
+        },       {
             "name": "解析7",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2428&my=gktxACDELMOPTWZ489&format=json&url="
-        },          {
-            "name": "解析8",
-            "type": 1,
-            "url": "https://api.json.icu/api/?key=15cfa8c0854a4cf4fd819bb2103ce9c9&url="
-        },        {
-            "name": "解析9",
-            "type": 1,
-            "url": "http://api.xmystv.cn:880/api/?key=kpFCtu0EXORBcoe4JN&url="
-        },     {
-            "name": "解析10",
-            "type": 1,
-            "url": "http://220.167.101.233:1698/api/http.php/?key=NwhgifO3LEgOkyFcrT&url="
-        },      {
-            "name": "解析11",
-            "type": 1,
             "url": "https://daina.hk/api/?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url="
-        },      {
-            "name": "解析12",
-            "type": 1,
-            "url": "https://json.oorl.cn/api/?key=j5PkI0K5GEl1W2OxqM&url="
-        },       {
-            "name": "解析8",
-            "type": 1,
-            "url": "http://newzy.feifan12.xyz/xjx.php?url="
-        },       {
-            "name": "解析8",
-            "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2284&my=cdefgijorsCPSTW138&format=json&url="
-        },       {
-            "name": "解析8",
-            "type": 1,
-            "url": "http://122.228.85.175:9898/api/jsonindex.php/?key=w8Nyb5m0xjIcERmV18&url="
-        },       {
-            "name": "解析8",
-            "type": 1,
-            "url": "http://qp.jlgw.top/api/diy/?key=9DdcyLPaRTg8H2Y8aQ&url="
-        },    {
+        },        {
             "name": "久久解析",
             "type": 1,
             "url": "https://api.json.icu/api/?key=4799ca578c3b5ec3fdbefbf4ff9ff376&url="
@@ -1460,27 +1423,7 @@
             "url": "http://115.231.220.36:8801/jx/tvbox/1314.php?url="
         },  
  
- {
-		"name": "夜猫玉米",
-		"type": 1,
-		"url": "https://huancun.xn--654a.cc/m334.php?url=",
-	    "ext": {
-			"flag": ["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	},  
-	  {
-      "name": "玉米",
-      "type": 1,
-      "url": "http://110.42.3.71:5000/api/jiexi/common?Key=LMo8E4YGA8q7smoL4F&url=",
-      "ext": {
-        "flag": [
-          "YuMi-vip"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
+
 {"name": "夜猫超解析", "type": 1, "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
 		"ext":{"flag":["qq",
                     "腾讯",
@@ -1621,11 +1564,18 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://jxjson.cf/json_balabala.php?url=",
+      "url": "https://jxjson.cf/ads.php?url=",
       "header": {
         "User-Agent": "okhttp/4.9.3"
       }
-    },
+    }, {
+		"name": "好戏",
+		"type": 0,
+		"url": "https://vip.haoxi.vip/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}   
+	},
 
  
  
@@ -1686,7 +1636,7 @@
     {
       "name": "🐱2号",
       "type": 0,
-      "url": "https://www.yemu.xyz/v/d.php?url=",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
         "flag": [
           "qq",
