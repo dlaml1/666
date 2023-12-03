@@ -357,7 +357,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/达达龟.json"
-    },{"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+    },{"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},{
+      "key": "js_bzys",
+      "name": "┃厂长┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/厂长.js"
+    },
+
          {
             "key": "csp_xBPQ_奇优",
             "name": "🅱️奇优影视|T追剧",
@@ -416,16 +426,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"
-    },        {
-            "key": "drpy_js_乐猪",
-            "name": "🐷┃乐猪┃影视",
-            "type": 3,
-            "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/乐猪TV.js"
-        },
+    },     
     {
       "key": "csp_YQKan_一起看",
       "name": "🦄一起",
