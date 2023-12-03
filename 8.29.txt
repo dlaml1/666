@@ -358,7 +358,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/达达龟.json"
     },{"key":"玉米","name":"🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},{
-      "key": "js_bzys",
+      "key": "js_czys",
       "name": "┃厂长┃影视",
       "type": 3,
       "api": "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads",
