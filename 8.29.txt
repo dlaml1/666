@@ -1376,12 +1376,12 @@
         }
       }
     },        {
-            "name": "左岸解析",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+            "name": "解析",
+            "type": 0,
+            "url": "https://jx.ppflv.com/?url="
         },     {
             "name": "YuMi-vip🥭",
-            "type": 1,
+            "type": 0,
             "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=",
             "ext": {
                 "flag": [
@@ -1422,40 +1422,19 @@
             "url": "https://api.json.icu/api/?key=4799ca578c3b5ec3fdbefbf4ff9ff376&url="
         },    {
             "name": "追忆解析",
+            "type": 0,
+            "url": "https://jx.playerjy.com/?ads=0&url="
+        },   {
+            "name": "酷云77解析",
             "type": 1,
-            "url": "http://115.231.220.36:8801/jx/tvbox/1314.php?url="
+            "url": "http://api.tyun77.cn/api.php/provide/parserUrl?url="
         },  
  
-
-
-
-  
     {
       "name": "巧技解析",
       "type": 1,
-      "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      "url": "https://www.qiaoji8.com/tvbox/json1.php?url="
+
     },
 
     {
