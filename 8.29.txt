@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃12月2日更新5525",
+      "name": "🍳┃360官源┃12月8日更新5525",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -1390,31 +1390,31 @@
             }
         },    {
       "name": "解析1",
-      "type": 0,
+      "type": 1,
       "url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="
     },  {
             "name": "解析2",
-            "type": 0,
+            "type": 1,
             "url": "https://b.zzxjx.xyz/index/info?secretkey=11ab3f57954594d249289e0898fe6a98&file_id="
         },  {
             "name": "解析3",
-            "type": 0,
+            "type": 1,
             "url": "http://110.42.2.98:2222/api/?key=dXVSZKYgTl96F51xWi&url="
         },  {
             "name": "解析4",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=" }, {
             "name": "解析5",
-            "type": 0,
+            "type": 1,
             "url": "https://api.xn--od1aq39b.net/api/?key=HpAaEBSpOxTfEEpdBc&url="
         },
             {
             "name": "解析6",
-            "type": 0,
+            "type": 1,
             "url": "http://api.xmystv.cn:880/api/?key=kpFCtu0EXORBcoe4JN&url="
         },       {
             "name": "解析7",
-            "type": 0,
+            "type": 1,
             "url": "https://daina.hk/api/?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url="
         },        {
             "name": "久久解析",
@@ -1432,7 +1432,7 @@
   
     {
       "name": "巧技解析",
-      "type": 0,
+      "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
       "ext": {
         "flag": [
@@ -1474,7 +1474,7 @@
 		}   
 	},{
 		"name": "多剧",
-		"type": 1,
+		"type": 0,
 		"url": "https://huiyuan.haokantv.cyou/player/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
@@ -1675,7 +1675,7 @@
       }
     },    {
       "name": "🐱5号",
-      "type": 1,
+      "type": 0,
       "url": "https://www.yemu.xyz/v/d.php?url=",
       "ext": {
         "flag": [
