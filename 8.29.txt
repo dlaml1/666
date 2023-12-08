@@ -1429,7 +1429,11 @@
             "type": 1,
             "url": "http://api.tyun77.cn/api.php/provide/parserUrl?url="
         },  
- 
+  {
+            "name": "酷云77解析2",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+        },  
     {
       "name": "巧技解析",
       "type": 1,
