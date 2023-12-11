@@ -319,7 +319,7 @@
             "key": "XYQH_JOJO",
             "name": "🍁┃久久┃影视",
             "type": 3,
-            "api": "csp_XBPQ",   
+            "api": "csp_XYQHiker",   
             "jar": "https://jihulab.com/dlaml1/666/-/raw/main/jar/xyq.jar",      
             "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/jojo.json"},
 
