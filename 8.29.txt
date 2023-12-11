@@ -391,6 +391,10 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
 
+{"key":"飞云","name":"⛅飞云┃切片","type":3,"api":"https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext":"http://xn--yet226clhctt4b.fun:66/js/fy.js","searchable":1,"quickSearch":1,"changeable":0},
+{"key": "csp_AucFox","name": "🎡Auc┃Fox","type": 3,"api": "csp_XBPQ","jar": "http://小盒酷玩.fun:74/禁止贩卖","ext": "./json/AucFox.json"},
+
+{"key": "znjson","name": "✂️ZNJ┃切片","type": 3,"api": "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext": "http://xn--yet226clhctt4b.fun:66/js/zanzan.js","searchable": 1,"quickSearch": 1,"changeable": 0},{"key" : "js_v2-jrly","name" :"📯嘉靓┃切片","type" : 3,"api" : "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext" : "http://xn--yet226clhctt4b.fun:66/js/嘉靓.js"},
 
     {
       "key": "csp_乐猪",
@@ -888,14 +892,22 @@
       "ext": "./XYQTVBox/alitoken.txt",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ali2.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
-{"key":"七夜","name":"🚲┃七夜┃网盘","type":3,"api":"csp_Dovx","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"易搜","name":"🐷┃易搜┃网盘","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"Up搜","name":"🍒┃Up搜┃网盘","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"盘搜索","name":"🚢┃盘搜┃网盘","type":3,"api":"csp_PanSearch","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"小纸条", "name":"🚃┃纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"喵狸","name":"🍻┃喵狸┃网盘","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://alist.xn--z7x900a.live/lib/PG推送.json", "timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"爱盘搜","name":"☠┃爱盘┃网盘","type":3,"api":"http://alist.xn--z7x900a.live/ddrpy2.m.js","ext":"http://alist.xn--z7x900a.live/js/aipanso.js","quickSearch":1,"changeable":0,"timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
-{"key":"趣盘搜","name":"🐷┃趣盘┃网盘","type":3,"api":"http://alist.xn--z7x900a.live/ddrpy2.m.js","ext":"http://alist.xn--z7x900a.live/js/funletu.js","quickSearch":1, "changeable":0,"timeout":30,"jar":"http://alist.xn--z7x900a.live/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed"},
+
+{"key":"夸克","name":"🏍夸克┃网盘","type": 3,"api": "csp_QuPanSou","jar": "http://小盒酷玩.fun:72/禁止贩卖","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://小盒酷玩.fun:73/禁止贩卖","danmu": true}},
+
+{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+
+{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
+
+{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+
+{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+
+{"key":"小纸条", "name":"📑纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+
+{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+
+{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1","timeout":30},
     {
       "key": "Kuaikan",
       "name": "👀┃快看┃影视",
