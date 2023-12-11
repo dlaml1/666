@@ -136,17 +136,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },    {
-      "key": "久久",
-      "name": "久久TV",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://ys.jiujiutv.cn/api.php/app/"
-    },
+    },   
     {
       "key": "apv2_梦梦",
       "name": "✨帝落┃影视┃测试",
@@ -324,19 +314,14 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
-    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/花猫.json"},    {
-      "key": "drpy_js_花猫TV",
-      "name": "😻花猫",
-      "type": 3,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://tvmvip.com/xc/js/%E8%8A%B1%E7%8C%ABTV.js"
-    },
+    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/花猫.json"},  
         {
             "key": "XYQH_JOJO",
             "name": "🍁┃久久┃影视",
             "type": 3,
-            "api": "csp_XBPQ",         
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"},
+            "api": "csp_XBPQ",   
+            "jar": "https://jihulab.com/dlaml1/666/-/raw/main/jar/xyq.jar",      
+            "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/jojo.json"},
 
     {
       "key": "csp_达龟",
