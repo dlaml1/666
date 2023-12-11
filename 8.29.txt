@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃12月8日更新5525",
+      "name": "🍳┃360官源┃12月11日更新5525",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -335,8 +335,7 @@
             "key": "XYQH_JOJO",
             "name": "🍁┃久久┃影视",
             "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "api": "csp_XBPQ",         
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"},
 
     {
