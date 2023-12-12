@@ -895,19 +895,19 @@
 
 {"key":"夸克","name":"🏍夸克┃网盘","type": 3,"api": "csp_QuPanSou","jar": "http://小盒酷玩.fun:72/禁止贩卖","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://小盒酷玩.fun:73/禁止贩卖","danmu": true}},
 
-{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
 
-{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
+{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
 
-{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
 
-{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
 
-{"key":"小纸条", "name":"📑纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+{"key":"小纸条", "name":"📑纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
 
-{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
+{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
 
-{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1","timeout":30},
+{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","jar": "http://小盒酷玩.fun:70/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1","timeout":30},
     {
       "key": "Kuaikan",
       "name": "👀┃快看┃影视",
