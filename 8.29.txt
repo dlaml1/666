@@ -396,6 +396,24 @@
 
 {"key": "znjson","name": "✂️ZNJ┃切片","type": 3,"api": "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext": "http://xn--yet226clhctt4b.fun:66/js/zanzan.js","searchable": 1,"quickSearch": 1,"changeable": 0},{"key" : "js_v2-jrly","name" :"📯嘉靓┃切片","type" : 3,"api" : "https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext" : "http://xn--yet226clhctt4b.fun:66/js/嘉靓.js"},
 
+{"key":"csp_996","name":"🎳996┃播放器","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选": "1"}},
+
+{"key":"csp_热播","name":"🔥热播┃之家","type":3,"api":"csp_XBPQ","jar": "http://小盒酷玩.fun:74/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yet226clhctt4b.fun:66/json/热播.json"},
+
+{"key": "萌米","name": "🌮萌米┃TV","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","jar":"http://小盒酷玩.fun:75/禁止贩卖","playerType": 2,"ext": {"key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},"},
+
+{"key":"csp_XBPQ_多剧","name":"🏰多剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"},
+
+{"key": "小胡","name": "🙆小胡┃影视","type": 1,"playerType": 1,"api": "http://d.xzam.cn/api.php/provide/vod/"},
+
+{"key":"vip","name":"🍾超前┃点播","type": 3,"playerType":1, "api" : "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js","ext":"http://xn--yet226clhctt4b.fun:66/js/超前点播.js"},
+
+{"key": "03","name": "🧠零三┃影院","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://xn--yet226clhctt4b.fun:66/json/03.json"},
+
+{"key": "云播","name": "☁️云播┃TV","type": 3,"api": "csp_XBPQ","ext":"http://xn--yet226clhctt4b.fun:66/json/云播.json"},
+
+{"key": "花海","name": "🌼花海┃影视","api": "csp_AppYs","type": 3,"playerType": "2","ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
+
     {
       "key": "csp_乐猪",
       "name": "🐷乐猪┃影视",
