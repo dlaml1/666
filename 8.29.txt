@@ -422,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/%E4%B9%90%E7%8C%AA.json?ref_type=heads"
+      "ext": "http://www.7xdy.com/dianshiju/index.html,分类:全部$20"},"
     },     
     {
       "key": "csp_YQKan_一起看",
@@ -439,7 +439,7 @@
       "name": "🐜蚂蚁",
       "type": 3,
       "api": "csp_Mayiys",
-      "jar": "http://cdn.qiaoji8.com/fix09292.jar;md5;d2dc99c413e74bb24c862c1021d1f7eb",
+      "jar": "http://cdn.qiaoji8.com/fix1209.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
