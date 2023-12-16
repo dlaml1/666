@@ -422,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.7xdy.com/dianshiju/index.html,分类:全部$20"},"
+      "ext": "http://www.7xdy.com/dianshiju/index.html,分类:全部$20",
     },     
     {
       "key": "csp_YQKan_一起看",
