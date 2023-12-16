@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃12月11日更新5525",
+      "name": "🍳┃360官源┃12月16日更新5525",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -422,7 +422,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.7xdy.com/dianshiju/index.html,分类:全部$20",
+      "ext": "http://www.7xdy.com/dianshiju/index.html,分类:全部$20"
     },     
     {
       "key": "csp_YQKan_一起看",
