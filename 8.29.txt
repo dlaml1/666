@@ -9,7 +9,7 @@
          "playerType": 1,
          "url": "https://jihulab.com/dlaml1/666/-/raw/main/json/zb.txt",
          "ua": "okhttp/3.12.13",
-         "epg": "http://epg.51zmt.top:8000/e.xml?ch={name}&date={date}",
+         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
       {
@@ -444,7 +444,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://rzys.xyz"
-    },    {"key":"csp_sxys","name":"自营 | 神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://tv.sxtv.top:81/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电视剧$20#电影$29#动漫$41#综艺$45#体育赛事$60"},  {"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},
+    },     {   "key":"csp_sxtv",
+            "name":"自营 | 神仙影视",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
+        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},
     {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
@@ -899,22 +907,69 @@
       "ext": "./XYQTVBox/alitoken.txt",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ali2.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
-
-{"key":"夸克","name":"🏍夸克┃网盘","type": 3,"api": "csp_QuPanSou","jar": "http://小盒酷玩.fun:72/禁止贩卖","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://小盒酷玩.fun:73/禁止贩卖","danmu": true}},
-
-{"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
-
-{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
-
-{"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
-
-{"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
-
-{"key":"小纸条", "name":"📑纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
-
-{"key":"喵狸","name":"🚂喵狸┃网盘","type":3,"api":"csp_PanSou","jar": "http://小盒酷玩.fun:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖", "timeout":30},
-
-{"key":"影巢网盘","name":"🚜影巢┃网盘","type":3,"api":"csp_Hdhive","jar": "http://小盒酷玩.fun:70/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1","timeout":30},
+{
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",      
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",      
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+    },
+    {
+      "key": "PanSou",
+      "name": "🦊盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",    
+        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "😻Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "七夜",
+      "name": "😾七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
     {
       "key": "Kuaikan",
       "name": "👀┃快看┃影视",
@@ -1193,40 +1248,32 @@
         "欧美动漫"
       ]
     },{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人","type":3,"api":"https://jihulab.com/dlaml1/666/-/raw/main/js/drpy2.min.js?ref_type=heads","ext":"https://jihulab.com/dlaml1/666/-/raw/main/json/ikanbot3.js?ref_type=heads"},
-    {
-      "key": "csp_SNzy",
-      "name": "🐉┃索尼┃高清",
+ {
+      "key": "索尼",
+      "name": "🚄索尼影视",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "动作片",
-        "喜剧片",
         "科幻片",
+        "动作片",
         "恐怖片",
+        "纪录片",
         "爱情片",
-        "剧情片",
         "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
+        "剧情片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
         "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧"
       ]
     },
     {
