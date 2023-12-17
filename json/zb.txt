@@ -1231,7 +1231,6 @@ CHC家庭影院,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch0000009099000
 西安教育台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 咸阳,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
 魔百盒IPV6,#genre#
 央视,CCTV-1
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
