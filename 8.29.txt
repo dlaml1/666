@@ -9,7 +9,7 @@
          "playerType": 1,
          "url": "https://jihulab.com/dlaml1/666/-/raw/main/json/zb.txt",
          "ua": "okhttp/3.12.13",
-         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+         "epg": "https://epg.erw.cc/api/diyp/",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
       {
