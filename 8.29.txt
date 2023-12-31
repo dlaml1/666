@@ -773,7 +773,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
+            "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/cctv.py"
         },
     
     {
@@ -923,7 +923,7 @@
 
 {"key":"DaPanSo","name":"🛰️大盘┃网盘","type":3,"api":"csp_DaPanSo","jar":"http://小盒酷玩.xyz:70/禁止贩卖","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://小盒酷玩.xyz:71/禁止贩卖$$$https://dapanso.com$$$null"},
 
-{"key":"xb七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx",""jar":"http://小盒酷玩.xyz:70/禁止贩卖",changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖", "timeout":60},
+{"key":"xb七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx",""jar":"http://小盒酷玩.xyz:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖", "timeout":60},
 
 {"key":"xb易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","jar":"http://小盒酷玩.xyz:70/禁止贩卖","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","timeout":60},
 
