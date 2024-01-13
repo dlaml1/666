@@ -1177,104 +1177,6 @@ CETV-2SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m
 CETV-4SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
 CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
-咪咕视频,#genre#
-4K影院 20M,http://39.134.65.79/0000000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
-CCTV16 4K 12M,http://39.134.65.79/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-华数4K 15M2160,http://39.134.65.79/0000000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
-纯享4K 20M,http://39.134.65.79/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-足球联赛16,http://39.134.65.79/0000000000001000/3000000010000005180/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000005180
-欢笑剧场4K 12M,http://39.134.65.79/0000000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
-足球联赛12,http://39.134.65.79/0000000000001000/3000000010000015686/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000015686
-CCTV1 4M,http://39.134.65.79/0000000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
-CCTV1 4M,http://39.134.65.79/0000000000001000/5000000010000030810/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030810
-CCTV1 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265001
-CCTV1 7.5M,http://39.134.65.79/0000000000001000/5000000004000002226/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000002226
-CCTV1 8M,http://39.134.65.79/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
-CCTV1 8M,http://39.134.65.79/0000000000001000/6000000001000029752/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000029752
-CCTV2 4M,http://39.134.65.79/0000000000001000/1000000001000012442/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012442
-CCTV2 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265002
-CCTV2 8M,http://39.134.65.79/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
-CCTV2 8M,http://39.134.65.79/0000000000001000/6000000001000014161/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000014161
-CCTV2 8M,http://39.134.65.79/0000000000001000/5000000011000031101/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031101
-CCTV3 4M,http://39.134.65.79/0000000000001000/1000000001000011218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011218
-CCTV3 4M,http://39.134.65.79/0000000000001000/5000000002000020548/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000020548
-CCTV3 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265003
-CCTV3 6.8M,http://39.134.65.79/0000000000001000/5000000004000008883/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008883
-CCTV3 8M,http://39.134.65.79/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
-CCTV3 8M,http://39.134.65.79/0000000000001000/6000000001000022313/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000022313
-CCTV4 4M,http://39.134.65.79/0000000000001000/1000000002000031664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031664
-CCTV4 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265004
-CCTV4 8M,http://39.134.65.79/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
-CCTV5 12M,http://39.134.65.79/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
-CCTV5 4M,http://39.134.65.79/0000000000001000/1000000003000030177/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000030177
-CCTV5 4M,http://39.134.65.79/0000000000001000/1000000001000004794/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000004794
-CCTV5 4M,http://39.134.65.79/0000000000001000/5000000001000026930/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000001000026930
-CCTV5 4M,http://39.134.65.79/0000000000001000/5000000010000016619/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000016619
-CCTV5 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265005
-CCTV5 6.8M,http://39.134.65.79/0000000000001000/5000000004000008885/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008885
-CCTV5 8M,http://39.134.65.79/0000000000001000/6000000001000016431/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000016431
-CCTV5+ 4M,http://39.134.65.79/0000000000001000/1000000001000020505/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020505
-CCTV5+ 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265016/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265016
-CCTV5+ 8M,http://39.134.65.79/0000000000001000/1000000001000018504/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018504
-CCTV5+ 8M,http://39.134.65.79/0000000000001000/6000000001000015875/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000015875
-CCTV5+ 8M,http://39.134.65.79/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
-CCTV6 4M,http://39.134.65.79/0000000000001000/1000000001000016466/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000016466
-CCTV6 4M,http://39.134.65.79/0000000000001000/5000000010000018433/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018433
-CCTV6 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265006
-CCTV6 6.8M,http://39.134.65.79/0000000000001000/5000000004000008886/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008886
-CCTV6 8M,http://39.134.65.79/0000000000001000/1000000001000001737/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001737
-CCTV6 8M,http://39.134.65.79/0000000000001000/6000000001000004574/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000004574
-CCTV7 4M,http://39.134.65.79/0000000000001000/1000000001000017218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017218
-CCTV7 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265007
-CCTV7 8M,http://39.134.65.79/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
-CCTV7 8M,http://39.134.65.79/0000000000001000/6000000001000009055/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000009055
-CCTV7 8M,http://39.134.65.79/0000000000001000/5000000011000031104/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031104
-CCTV8 4M,http://39.134.65.79/0000000000001000/5000000010000018377/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018377
-CCTV8 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265008/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265008
-CCTV8 6.8M,http://39.134.65.79/0000000000001000/5000000004000008888/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008888
-CCTV8 8M,http://39.134.65.79/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
-CCTV8 8M,http://39.134.65.79/0000000000001000/1000000001000031433/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000031433
-CCTV8 8M,http://39.134.65.79/0000000000001000/6000000001000001070/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000001070
-CCTV9 4M,http://39.134.65.79/0000000000001000/1000000001000028286/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000028286
-CCTV9 4M,http://39.134.65.79/0000000000001000/5000000010000018384/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018384
-CCTV9 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265009/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265009
-CCTV9 8M,http://39.134.65.79/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
-CCTV9 8M,http://39.134.65.79/0000000000001000/6000000001000032162/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000032162
-CCTV10 2.5M,http://39.134.65.79/0000000000001000/1000000001000026367/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000026367
-CCTV10 4M,http://39.134.65.79/0000000000001000/5000000010000016738/index.m3u8?livemode=1&stbId=3&channel-id=bestzb&Contentid=5000000010000016738
-CCTV10 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265010/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265010
-CCTV10 8M,http://39.134.65.79/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
-CCTV10 8M,http://39.134.65.79/0000000000001000/6000000001000031506/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000031506
-CCTV10 8M,http://39.134.65.79/0000000000001000/5000000004000012827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000012827
-CCTV11 4M,http://39.134.65.79/0000000000001000/1000000002000019789/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019789
-CCTV11 4M,http://39.134.65.79/0000000000001000/5000000006000040011/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040011
-CCTV11 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265011/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265011
-CCTV11 8M,http://39.134.65.79/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
-CCTV12 2.5M,http://39.134.65.79/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
-CCTV12 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265012
-CCTV12 8M,http://39.134.65.79/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
-CCTV12 8M,http://39.134.65.79/0000000000001000/6000000001000022586/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000022586
-CCTV12 8M,http://39.134.65.79/0000000000001000/5000000011000031107/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031107
-CCTV13 4M,http://39.134.65.79/0000000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
-CCTV13 4M,http://39.134.65.79/0000000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
-CCTV13 8M,http://39.134.65.79/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
-CCTV14 2.5M,http://39.134.65.79/0000000000001000/1000000001000021349/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021349
-CCTV14 4M,http://39.134.65.79/0000000000001000/5000000010000023358/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000023358
-CCTV14 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265013/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265013
-CCTV14 8M,http://39.134.65.79/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
-CCTV14 8M,http://39.134.65.79/0000000000001000/6000000001000013647/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000001000013647
-CCTV14 8M,http://39.134.65.79/0000000000001000/5000000004000006673/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000006673
-CCTV15 4M,http://39.134.65.79/0000000000001000/1000000002000008163/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000008163
-CCTV15 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265014/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265014
-CCTV15 8M,http://39.134.65.79/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
-CCTV16 4M,http://39.134.65.79/0000000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
-CCTV16 4M,http://39.134.65.79/0000000000001000/1000000006000233001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233001
-CCTV16 4M,http://39.134.65.79/0000000000001000/2000000003000000059/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000059
-CCTV16 8M,http://39.134.65.79/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
-CCTV17 4M,http://39.134.65.79/0000000000001000/1000000005000056836/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000056836
-CCTV17 4M,http://39.134.65.79/0000000000001000/2000000003000000038/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000038
-CCTV17 5.5MHEVC,http://39.134.65.79/0000000000001000/1000000005000265015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265015
-CCTV17 8M,http://39.134.65.79/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 
 银河IPV6,#genre#
 CCTV-1 HD,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1816,33 +1718,204 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 地理野生,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-影视综合,#genre#
-CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8#http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
-兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8#http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
-菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
-南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-隆化影视,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8#http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-美丽中国说,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN Espa?ol,http://livees.cgtn.com/500e/prog_index.m3u8
-CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
-平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+虎牙,#genre#
+电影_星爷,http://mmitv.top/pltv/huya.php?id=11342412
+电影_英叔,http://mmitv.top/pltv/huya.php?id=11342421
+电影_发哥,http://mmitv.top/pltv/huya.php?id=11342387
+电影_成龙,http://mmitv.top/pltv/huya.php?id=11342386
+电影_王晶,http://mmitv.top/pltv/huya.php?id=11602058
+电影_沈腾,http://mmitv.top/pltv/huya.php?id=11601968
+电影_黄渤,http://mmitv.top/pltv/huya.php?id=11352876
+电影_强森,http://mmitv.top/pltv/huya.php?id=21059581
+电影_漫威,http://mmitv.top/pltv/huya.php?id=11602034
+电影_宇宙,http://mmitv.top/pltv/huya.php?id=11342428
+电影_怪兽,http://mmitv.top/pltv/huya.php?id=21059577
+电影_武侠,http://mmitv.top/pltv/huya.php?id=11342427
+电影_警匪,http://mmitv.top/pltv/huya.php?id=11352886
+电影_罪犯,http://mmitv.top/pltv/huya.php?id=11352962
+电影_枪战,http://mmitv.top/pltv/huya.php?id=21059579
+电影_海盗,http://mmitv.top/pltv/huya.php?id=21059595
+电影_赛车,http://mmitv.top/pltv/huya.php?id=11279247
+电影_推荐,http://mmitv.top/pltv/huya.php?id=11602041
+电影_救援,http://mmitv.top/pltv/huya.php?id=21059594
+电影_热血,http://mmitv.top/pltv/huya.php?id=11352934
+电影_盗墓,http://mmitv.top/pltv/huya.php?id=21059552
+电影_贺岁,http://mmitv.top/pltv/huya.php?id=11601971
+电影_玄幻,http://mmitv.top/pltv/huya.php?id=11342414
+电影_谍战,http://mmitv.top/pltv/huya.php?id=21059585
+电影_战争,http://mmitv.top/pltv/huya.php?id=21059592
+电影_喜剧,http://mmitv.top/pltv/huya.php?id=11352877
+电影_港片,http://mmitv.top/pltv/huya.php?id=11602043
+电影_国产,http://mmitv.top/pltv/huya.php?id=11352973
+电影_周星星,http://mmitv.top/pltv/huya.php?id=11336587
+电影_李连杰,http://mmitv.top/pltv/huya.php?id=11342390
+电影_洪金宝,http://mmitv.top/pltv/huya.php?id=11279251
+电影_梁家辉,http://mmitv.top/pltv/huya.php?id=11342429
+电影_许冠英,http://mmitv.top/pltv/huya.php?id=11601972
+电影_刘德华,http://mmitv.top/pltv/huya.php?id=11342424
+电影_斯坦森,http://mmitv.top/pltv/huya.php?id=21059588
+电影_小鬼头,http://mmitv.top/pltv/huya.php?id=11352963
+电影_八点档,http://mmitv.top/pltv/huya.php?id=880261
+电影_蜘蛛侠,http://mmitv.top/pltv/huya.php?id=21059599
+电影_贺岁片,http://mmitv.top/pltv/huya.php?id=11601986
+电影_功夫片,http://mmitv.top/pltv/huya.php?id=11352941
+电影_黑帮片,http://mmitv.top/pltv/huya.php?id=11336719
+电影_丧尸片,http://mmitv.top/pltv/huya.php?id=21059578
+电影_灾难片,http://mmitv.top/pltv/huya.php?id=11602075
+电影_谍战片,http://mmitv.top/pltv/huya.php?id=21059587
+电影_战争片,http://mmitv.top/pltv/huya.php?id=21059574
+电影_犯罪片,http://mmitv.top/pltv/huya.php?id=11352974
+电影_古装片,http://mmitv.top/pltv/huya.php?id=11336590
+电影_高分动作,http://mmitv.top/pltv/huya.php?id=11352884
+电影_动作电影,http://mmitv.top/pltv/huya.php?id=11602077
+电影_搞笑喜剧,http://mmitv.top/pltv/huya.php?id=11342423
+电影_喜剧专场,http://mmitv.top/pltv/huya.php?id=11602044
+电影_欢笑影院,http://mmitv.top/pltv/huya.php?id=11352894
+电影_不挤影院,http://mmitv.top/pltv/huya.php?id=11352897
+电影_国产悬疑,http://mmitv.top/pltv/huya.php?id=11342395
+电影_快意江湖,http://mmitv.top/pltv/huya.php?id=11342435
+电影_黑帮斗争,http://mmitv.top/pltv/huya.php?id=11342419
+电影_古墓系列,http://mmitv.top/pltv/huya.php?id=11352913
+电影_嫣然影厅,http://mmitv.top/pltv/huya.php?id=11601977
+电影_女神系列,http://mmitv.top/pltv/huya.php?id=11336571
+电影_经典女神,http://mmitv.top/pltv/huya.php?id=11352909
+电影_许氏三杰,http://mmitv.top/pltv/huya.php?id=11602033
+电影_经典港片,http://mmitv.top/pltv/huya.php?id=11352965
+电影_镖行天下,http://mmitv.top/pltv/huya.php?id=11352969
+电影_高能反转,http://mmitv.top/pltv/huya.php?id=11352887
+电影_喜乐影院,http://mmitv.top/pltv/huya.php?id=21059580
+电影_蘑菇影厅,http://mmitv.top/pltv/huya.php?id=11601981
+电影_搞笑恐怖,http://mmitv.top/pltv/huya.php?id=11601960
+电影_死神来了,http://mmitv.top/pltv/huya.php?id=11352903
+电影_变形金刚,http://mmitv.top/pltv/huya.php?id=21059596
+电影_怪兽系列,http://mmitv.top/pltv/huya.php?id=21059554
+搞笑_陈翔六点半,http://mmitv.top/pltv/huya.php?id=11274154
+解说_电影狂人,http://mmitv.top/pltv/huya.php?id=18715610
+解说_鹿哥电影,http://mmitv.top/pltv/huya.php?id=24396360
+解说_斌哥漫说,http://mmitv.top/pltv/huya.php?id=18632116
+解说_续哥说电影,http://mmitv.top/pltv/huya.php?id=24396472
+解说_小川侃电影,http://mmitv.top/pltv/huya.php?id=15870999
+解说_阿钙扒瞎,http://mmitv.top/pltv/huya.php?id=15978172
+解说_阿良说剧,http://mmitv.top/pltv/huya.php?id=20488841
+解说_鱼丸电影,http://mmitv.top/pltv/huya.php?id=16615910
+解说_阿斗说电影,http://mmitv.top/pltv/huya.php?id=13303478
+解说_扁豆看电影,http://mmitv.top/pltv/huya.php?id=16028551
+解说_乌贼说电影,http://mmitv.top/pltv/huya.php?id=16604522
+解说_大象放映室,http://mmitv.top/pltv/huya.php?id=21277391
+解说_科幻梦工场,http://mmitv.top/pltv/huya.php?id=15152155
+解说_亮哥讲电影,http://mmitv.top/pltv/huya.php?id=16144175
+解说_越哥说电影,http://mmitv.top/pltv/huya.php?id=15894162
+解说_小冉看电影,http://mmitv.top/pltv/huya.php?id=17341907
+解说_嫦娥撩电影,http://mmitv.top/pltv/huya.php?id=18201106
+解说_阿翔说电影,http://mmitv.top/pltv/huya.php?id=16868935
+解说_疯狂解说家,http://mmitv.top/pltv/huya.php?id=18366196
+解说_虎妞说电影,http://mmitv.top/pltv/huya.php?id=20343144
+解说_顾久撩电影,http://mmitv.top/pltv/huya.php?id=16422212
+解说_俗哥看电影,http://mmitv.top/pltv/huya.php?id=15452736
+解说_老皮讲电影,http://mmitv.top/pltv/huya.php?id=16968572
+解说_默爷侃电影,http://mmitv.top/pltv/huya.php?id=17204307
+解说_冷君说电影,http://mmitv.top/pltv/huya.php?id=16739452
+解说_老炮说电影,http://mmitv.top/pltv/huya.php?id=15454716
+解说_刘老师说电影,http://mmitv.top/pltv/huya.php?id=20289754
+剧集_老三国,http://mmitv.top/pltv/huya.php?id=11602081
+剧集_新三国,http://mmitv.top/pltv/huya.php?id=11352944
+剧集_新水浒,http://mmitv.top/pltv/huya.php?id=11342384
+剧集_纪晓岚,http://mmitv.top/pltv/huya.php?id=11342396
+剧集_庆余年,http://mmitv.top/pltv/huya.php?id=11352960
+剧集_雍正王朝,http://mmitv.top/pltv/huya.php?id=11342439
+剧集_士兵突击,http://mmitv.top/pltv/huya.php?id=11342430
+剧集_爱情公寓,http://mmitv.top/pltv/huya.php?id=11336726
+剧集_家有儿女,http://mmitv.top/pltv/huya.php?id=11352872
+剧集_武林外传,http://mmitv.top/pltv/huya.php?id=21059598
+剧集_地下交通站,http://mmitv.top/pltv/huya.php?id=11342433
+剧集_邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
 
+斗鱼,#genre#
+周星驰,http://maomao.kandiantv.cn/douyu1.php?id=122402
+刘德华,http://maomao.kandiantv.cn/douyu1.php?id=2516864
+好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
+庆余年,http://maomao.kandiantv.cn/douyu1.php?id=5908256
+欢乐综艺,http://maomao.kandiantv.cn/douyu1.php?id=131977
+万合出品,http://maomao.kandiantv.cn/douyu1.php?id=9220456
+邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457
+豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+漫威影院,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+粤语电影,http://maomao.kandiantv.cn/douyu1.php?id=1226741
+国产电影,http://maomao.kandiantv.cn/douyu1.php?id=5423
+精彩电影,http://maomao.kandiantv.cn/douyu1.php?id=9650887
+喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖电影,http://maomao.kandiantv.cn/douyu1.php?id=218859
+恐怖鬼怪,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+童年阴影,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+惊悚电影,http://maomao.kandiantv.cn/douyu1.php?id=96577
+神乐影视,http://maomao.kandiantv.cn/douyu1.php?id=85894
+兔子影厅,http://maomao.kandiantv.cn/douyu1.php?id=8985415
+冰冰影厅,http://maomao.kandiantv.cn/douyu1.php?id=74374
+刀刀影院,http://maomao.kandiantv.cn/douyu1.php?id=747764
+贝爷壹厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
+贝爷贰厅,http://maomao.kandiantv.cn/douyu1.php?id=4332
+贝爷叁厅,http://maomao.kandiantv.cn/douyu1.php?id=36337
+凌儿影院,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+云宝影院,http://maomao.kandiantv.cn/douyu1.php?id=7305938
+花卷影院,http://maomao.kandiantv.cn/douyu1.php?id=52787
+菜园小饼,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+橙記港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
+大宝影视,http://maomao.kandiantv.cn/douyu1.php?id=805235
+蚂蚱影视,http://maomao.kandiantv.cn/douyu1.php?id=6079455
+怡寶影视,http://maomao.kandiantv.cn/douyu1.php?id=434971
+圆子影视,http://maomao.kandiantv.cn/douyu1.php?id=6566658
+贝贝影视,http://maomao.kandiantv.cn/douyu1.php?id=431460
+可乐影视,http://maomao.kandiantv.cn/douyu1.php?id=20415
+下饭神剧,http://maomao.kandiantv.cn/douyu1.php?id=276200
+古装神剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
+晚湾影视,http://maomao.kandiantv.cn/douyu1.php?id=9461178
+酒染影视,http://maomao.kandiantv.cn/douyu1.php?id=7550220
+芊珏影视,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+热门港剧,http://maomao.kandiantv.cn/douyu1.php?id=5522351
+金庸武侠,http://maomao.kandiantv.cn/douyu1.php?id=7644931
+国产剧集,http://maomao.kandiantv.cn/douyu1.php?id=8157860
+国产剧场,http://maomao.kandiantv.cn/douyu1.php?id=308752
+爱情公寓,http://maomao.kandiantv.cn/douyu1.php?id=2838296
+经典剧集,http://maomao.kandiantv.cn/douyu1.php?id=6863367
+李卫当官,http://maomao.kandiantv.cn/douyu1.php?id=7473576
+龙门镖局,http://maomao.kandiantv.cn/douyu1.php?id=9650860
+雍正帝王,http://maomao.kandiantv.cn/douyu1.php?id=9650836
+隋唐演义,http://maomao.kandiantv.cn/douyu1.php?id=7552568
+音乐欣赏,http://maomao.kandiantv.cn/douyu1.php?id=3186217
+舌尖美食,http://maomao.kandiantv.cn/douyu1.php?id=9650849
+篮球人物,http://maomao.kandiantv.cn/douyu1.php?id=8434598
+史君说剧,http://maomao.kandiantv.cn/douyu1.php?id=9419771
+史剧解说,http://maomao.kandiantv.cn/douyu1.php?id=297689
+老秦说剧,http://maomao.kandiantv.cn/douyu1.php?id=9650131
+老蔡解说,http://maomao.kandiantv.cn/douyu1.php?id=8869614
+长片短解,http://maomao.kandiantv.cn/douyu1.php?id=9410946
+宇哥解说,http://maomao.kandiantv.cn/douyu1.php?id=8651489
+夜魔人老王,http://maomao.kandiantv.cn/douyu1.php?id=610972
+皮皮看动漫,http://maomao.kandiantv.cn/douyu1.php?id=9837291
+开心锤动漫,http://maomao.kandiantv.cn/douyu1.php?id=9018297
+拳叔二次元,http://maomao.kandiantv.cn/douyu1.php?id=9484105
+老邪说电影,http://maomao.kandiantv.cn/douyu1.php?id=9222870
+洗碗君解说,http://maomao.kandiantv.cn/douyu1.php?id=9446706
+百晓生说剧,http://maomao.kandiantv.cn/douyu1.php?id=9649681
+百晓生解说,http://maomao.kandiantv.cn/douyu1.php?id=9653063
+小司马说剧,http://maomao.kandiantv.cn/douyu1.php?id=4808115
+小司马解说,http://maomao.kandiantv.cn/douyu1.php?id=9660127
+星君说电影,http://maomao.kandiantv.cn/douyu1.php?id=8014467
+刘哔讲电影,http://maomao.kandiantv.cn/douyu1.php?id=2632223
+老王说电影,http://maomao.kandiantv.cn/douyu1.php?id=9687733
+贤于说电影,http://maomao.kandiantv.cn/douyu1.php?id=9461990
+牛叔说电影,http://maomao.kandiantv.cn/douyu1.php?id=2758565
+侃片大师兄,http://maomao.kandiantv.cn/douyu1.php?id=9338839
+虫哥说电影,http://maomao.kandiantv.cn/douyu1.php?id=8915074
+电影迷小雅,http://maomao.kandiantv.cn/douyu1.php?id=9639225
+1900影剧室,http://maomao.kandiantv.cn/douyu1.php?id=7796193
+刘老师说电影,http://maomao.kandiantv.cn/douyu1.php?id=8317926
+来呀官人解说,http://maomao.kandiantv.cn/douyu1.php?id=9986305
+科幻Fans布玛,http://maomao.kandiantv.cn/douyu1.php?id=3508304
+小片片说大片,http://maomao.kandiantv.cn/douyu1.php?id=4258555
+大片片说小片,http://maomao.kandiantv.cn/douyu1.php?id=7489563
+火龙果说电影,http://maomao.kandiantv.cn/douyu1.php?id=9559158
 
 经典电视剧,#genre#
 庆余年,https://www.goodiptv.club/huya/11352960
