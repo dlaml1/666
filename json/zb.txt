@@ -80,7 +80,6 @@ CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=3
 江苏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
@@ -1984,7 +1983,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 徐峥,https://www.goodiptv.club/huya/11602043
 沈腾,https://www.goodiptv.club/huya/11601968
 古天乐,https://www.goodiptv.club/huya/10871113
-林正英,https://www.goodiptv.club/huya/11342421
+林正英,http://43.138.170.29:35455/huya/11342421
 刘德华,https://www.goodiptv.club/huya/11342424
 周润发,https://www.goodiptv.club/huya/11342387
 洪金宝,https://www.goodiptv.club/huya/11342427
