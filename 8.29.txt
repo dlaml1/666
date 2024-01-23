@@ -566,13 +566,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/音范丝.json"
     },
-{
-         "key": "荐片",
-         "name": "🎬┃荐片┃影视",
-         "type": 3,
-         "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-         "ext": "https://fanty.run.goorm.site/ext/jp.js"
-      },
+
 
 
     {
