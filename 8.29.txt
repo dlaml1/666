@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃1月20日更新5525",
+      "name": "🍳┃360官源┃2月5日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -137,15 +137,7 @@
       "changeable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },   
-    {
-      "key": "apv2_梦梦",
-      "name": "✨帝落┃影视┃测试",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "playUrl": "json:https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url=",
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
+ 
     {
       "key": "超前",
       "name": "👑超前4K👑",
@@ -285,38 +277,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },  {
-"key":"小苹果",
-"name":"🍎主力源",
-"type":3,
-"api":"csp_LiteApple",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar":"http://xpgtv.net/1119/xpg1218.jar;md5;5ce7ac48436140227e4cc923255a340b"
-},             
-
-    {
-      "key": "辣辣",
-      "name": "🌶️┃辣辣┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
-  
-    },
-    {
-      "key": "七七",
-      "name": "🌈┃七七┃影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    }, 
     {
       "key": "js_bzys",
       "name": "🌋┃B站┃影视",
@@ -327,14 +288,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/dlaml1/666/-/raw/main/bzys.js"
     },
-    {"key": "csp_花猫","name": "🐱花猫┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/花猫.json"},  
-        {
-            "key": "XYQH_JOJO",
-            "name": "🍁┃久久┃影视",
-            "type": 3,
-            "api": "csp_XYQHiker",   
-            "jar": "https://jihulab.com/dlaml1/666/-/raw/main/jar/xyq.jar",      
-            "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/jojo.json"},
 
     {
       "key": "csp_达龟",
@@ -439,7 +392,7 @@
             "quickSearch":1,
             "changeable":1,
             "ext":"分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
-        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},
+        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://miao101.com/tag/%e5%9b%bd%e4%ba%a7%e5%89%a7/1,分类:全部$20"},
       {
             "key": "csp_Free",
             "name": "🅱️Free影视|T追剧",
@@ -468,15 +421,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://rihou.vip:88/hccx/91影视.json"
-    },    {
-      "key": "荐片",
+    },   {
+      "key": "csp_JianPian",
       "name": "🅱️荐片秒播|T追剧",
       "type": 3,
-      "api": "csp_RinHome",
-      "jar":"http://rihou.vip:88/hccx/HeChengChaXiu.jar",
+      "api": "csp_JianPian",
+      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },    {
+      "key": "开心影视",
+      "name": "🎦开心影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/开心影视.json"
     },
 
     {
@@ -1234,15 +1198,6 @@
             "name": "解析",
             "type": 0,
             "url": "https://jx.ppflv.com/?url="
-        },     {
-            "name": "YuMi-vip🥭",
-            "type": 0,
-            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=",
-            "ext": {
-                "flag": [
-                    "YuMi-vip"
-                ]
-            }
         },    {
       "name": "解析1",
       "type": 1,
@@ -1275,20 +1230,7 @@
             "name": "久久解析",
             "type": 1,
             "url": "https://api.json.icu/api/?key=4799ca578c3b5ec3fdbefbf4ff9ff376&url="
-        },    {
-            "name": "追忆解析",
-            "type": 0,
-            "url": "https://jx.playerjy.com/?ads=0&url="
-        },   {
-            "name": "酷云77解析",
-            "type": 1,
-            "url": "http://api.tyun77.cn/api.php/provide/parserUrl?url="
-        },  
-  {
-            "name": "酷云77解析2",
-            "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
-        },  
+        },   
     {
       "name": "巧技解析",
       "type": 1,
