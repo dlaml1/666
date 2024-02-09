@@ -126,17 +126,7 @@
             "filterable": 1,
             "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/douban.js"
         },
-    {
-      "key": "彩虹",
-      "name": "🌈彩虹4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },   
+
  
     {
       "key": "超前",
@@ -392,7 +382,7 @@
             "quickSearch":1,
             "changeable":1,
             "ext":"分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
-        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.keke5.app/show/2------.html,分类:全部$20"},{"key":"lhys","name":"灵虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://linghu.one/index.php/vod/show/id/2/page/1.html,分类:全部$20"},{"key":"xgzx","name":"西瓜在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.xiguazx.com/index.php/vod/show/id/37.html,分类:全部$20"},
+        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.keke5.app/show/2------.html,分类:全部$20"},{"key":"lhys","name":"灵虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://linghu.one/index.php/vod/show/id/2/page/1.html,分类:全部$20"},{"key":"xgzx","name":"西瓜在线","type":3,"api":"csp_XBPQ","playUrl":"json:https://free.haokantv.cyou/player/?url=","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.xiguazx.com/index.php/vod/show/id/37.html,分类:全部$20"},
       {
             "key": "csp_Free",
             "name": "🅱️Free影视|T追剧",
@@ -1072,34 +1062,7 @@
         "欧美动漫"
       ]
     },{"key":"drpy_js_ikanbot3","name":"聚搜 | 爱看机器人","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://jihulab.com/dlaml1/666/-/raw/main/json/ikanbot3.js?ref_type=heads"},
- {
-      "key": "索尼",
-      "name": "🚄索尼影视",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
+ 
     {
       "key": "卧龙资源",
       "name": "🐉卧龙",
@@ -1280,8 +1243,8 @@
 
     {
       "name": "巴拉接口",
-      "type": 1,
-      "url": "https://jxjson.cf/ads.php?url=",
+      "type": 0,
+      "url": "https://free.haokantv.cyou/player/?url=",
       "header": {
         "User-Agent": "okhttp/4.9.3"
       }
