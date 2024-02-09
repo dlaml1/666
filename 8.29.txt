@@ -382,7 +382,7 @@
             "quickSearch":1,
             "changeable":1,
             "ext":"分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
-        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.keke5.app/show/2------.html,分类:全部$20"},{"key":"lhys","name":"灵虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://linghu.one/index.php/vod/show/id/2/page/1.html,分类:全部$20"},{"key":"xgzx","name":"西瓜在线","type":3,"api":"csp_XBPQ","playUrl":"json:https://free.haokantv.cyou/player/?url=","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.xiguazx.com/index.php/vod/show/id/37.html,分类:全部$20"},
+        },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.keke5.app/show/2------.html,分类:全部$20"},{"key":"lhys","name":"灵虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://linghu.one/index.php/vod/show/id/2/page/1.html,分类:全部$20"},{"key":"xgzx","name":"西瓜在线","type":3,"api":"csp_XBPQ","playUrl":"https://free.haokantv.cyou/player/?url=","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.xiguazx.com/index.php/vod/show/id/37.html,分类:全部$20"},{"key":"lggys","name":"落攻阁影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.lggys.com/vodshow/dianshiju-----------.html,分类:全部$20"},{"key":"wwys","name":"往往影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.wwys.pro/oftenstype/dianshiju.html,分类:全部$20"},
       {
             "key": "csp_Free",
             "name": "🅱️Free影视|T追剧",
@@ -1148,88 +1148,15 @@
       "url": "Web"
     },
 
-    {
-      "name": "火花解析",
-      "type": 1,
-      "url": "https://api.huohua.vip/api/?key=mhdUAaoVSdV1RMevgW&url="
-    },    {
-      "name": "火花嗅探",
-      "type": 0,
-      "url": "https://api.huohua.vip/api/bfq/?key=mhdUAaoVSdV1RMevgW&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ],
-        "header": {
-          "User-Agent": "Dart/3.0(dart:io)"
-        }
-      }
-    },        {
+      {
             "name": "解析",
             "type": 0,
             "url": "https://jx.ppflv.com/?url="
-        },    {
-      "name": "解析1",
-      "type": 1,
-      "url": "http://110.42.3.71:5000/api/jiexi/common?Key=txfLlncGeTBnqJwBmH&url="
-    },  {
+        },   {
             "name": "解析2",
             "type": 1,
             "url": "https://b.zzxjx.xyz/index/info?secretkey=11ab3f57954594d249289e0898fe6a98&file_id="
-        },  {
-            "name": "解析3",
-            "type": 1,
-            "url": "http://110.42.2.98:2222/api/?key=dXVSZKYgTl96F51xWi&url="
-        },  {
-            "name": "解析4",
-            "type": 1,
-            "url": "https://jx.xn--2qux23cmstnvb.com/api/jsonindex.php/?key=SgTDow4ROhE51bV2kf&url=" }, {
-            "name": "解析5",
-            "type": 1,
-            "url": "https://api.xn--od1aq39b.net/api/?key=HpAaEBSpOxTfEEpdBc&url="
-        },
-            {
-            "name": "解析6",
-            "type": 1,
-            "url": "http://api.xmystv.cn:880/api/?key=kpFCtu0EXORBcoe4JN&url="
-        },       {
-            "name": "解析7",
-            "type": 1,
-            "url": "https://daina.hk/api/?key=dfbe2ab87db071e0fc62e436b0a9d5e9&url="
-        },        {
+        },     {
             "name": "久久解析",
             "type": 1,
             "url": "https://api.json.icu/api/?key=4799ca578c3b5ec3fdbefbf4ff9ff376&url="
@@ -1238,6 +1165,11 @@
       "name": "巧技解析",
       "type": 0,
       "url": "https://t1.qlplayer.cyou/player/?url="
+
+    },    {
+      "name": "落宫格解析",
+      "type": 0,
+      "url": "https://bf.lggys.com/player/index.php?code=qw&url="
 
     },
 
@@ -1319,7 +1251,15 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	},
-
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://dmku.thefilehosting.com/?ac=dm&url="
+    },    {
+      "name": "解析2",
+      "type": 0,
+      "url": "https://jx.yangtu.top/?url="
+    },
     {
       "name": "🐱2号",
       "type": 0,
