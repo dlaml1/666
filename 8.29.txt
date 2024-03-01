@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃2月5日更新",
+      "name": "🍳┃360官源┃3月1日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -401,16 +401,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/好戏影视.json"
-        },         {
-            "key": "csp_猎豹",
-            "name": "🅱️猎豹影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ","playUrl":"json:https://t1.qlplayer.cyou/player/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/猎豹.json"
-        },       {
+        },              {
             "key": "csp_lggys",
             "name": "🅱️落攻格影视|T追剧",
             "type": 3,
@@ -1192,14 +1183,14 @@
     }, {
 		"name": "好戏",
 		"type": 0,
-		"url": "https://vip.haoxi.vip/?url=",
+		"url": "",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	},{
 		"name": "多剧",
 		"type": 0,
-		"url": "https://huiyuan.haokantv.cyou/player/?url=",
+		"url": "https://pl.a6club.com/player/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
