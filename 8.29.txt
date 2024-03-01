@@ -126,7 +126,13 @@
             "filterable": 1,
             "ext": "https://jihulab.com/dlaml1/666/-/raw/main/json/douban.js"
         },
-
+        {
+            "key": "drpy_js_哔哩影视",
+            "name": "影视 | 哔哩影视[js]",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "./json/哔哩影视.js"
+        },
  
     {
       "key": "超前",
