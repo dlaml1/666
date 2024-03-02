@@ -22,14 +22,14 @@
     
 
     
-    "搜索url":"https://www.wasu.cn/wap/Search/index?k={wd}",
+    "搜索url":"/Search/index?k={wd}",
     
    
     "线路标题":"</i>&&[替换:&nbsp;>>🌸荷城茶秀接口🌸#<span class=\"badge\">>>共#</span>>>集]",
     
   
     
-    "线路二次截取":"<div class=\"swiper-wrapper\"&&</div>",
+ 
     
     "分类url":"https://www.wasu.cn/wap/teleplay",
     
