@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/ymz1231/jar/-/raw/main/xym.jar",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt",
   "warningText": "本接口完全免费",
   "wallpaper": "https://yun.chuqiuyu.tk",
  "lives": [
@@ -31,6 +31,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xym.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -379,6 +380,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.jar"
+    },    {
+      "key": "毛驴",
+      "name": "🦙┃毛驴┃影视",
+      "type": 3,
+      "api": "csp_MaoLv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240301.jar"
     },
     {   "key":"csp_sxtv",
             "name":"自营 | 神仙影视",
@@ -389,16 +399,26 @@
             "changeable":1,
             "ext":"分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
         },{"key":"dsjyy","name":"电视家影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.dianshijia.cc/index.php/vod/show/id/2.html,分类:全部$20"},{"key":"dj","name":"多剧蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duoju.vip/vodshow/2-----------.html,分类:全部$20"},{"key":"yb","name":"100影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.baiheqd.com/vodshow/2-----------.html,分类:全部$20"},{"key":"tbg","name":"兔八哥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.tbgys.top/vodshow/2-----------/,分类:全部$20"},{"key":"cdd","name":"臭蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.cddys.me/vodshow/2-----------.html,分类:全部$20"},{"key":"djdj","name":"短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://duanju.one/vodshow/32-----------.html,分类:全部$20"},{"key":"xfsp","name":"旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.keke5.app/show/2------.html,分类:全部$20"},{"key":"lhys","name":"灵虎影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://linghu.one/index.php/vod/show/id/2/page/1.html,分类:全部$20"},{"key":"xgzx","name":"西瓜在线","type":3,"api":"csp_XBPQ","playUrl":"https://free.haokantv.cyou/player/?url=","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.xiguazx.com/index.php/vod/show/id/37.html,分类:全部$20"},{"key":"wwys","name":"往往影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.wwys.pro/oftenstype/dianshiju.html,分类:全部$20"},{"key":"lgg","name":"落攻阁影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:https://www.lggys.cn/vodtype/2.html,分类:全部$20"},{"key":"ydkys","name":"易点看影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"分类url:http://www.edktv.com/vodshow_2-----------.html,分类:全部$20"},
-      {
-            "key": "csp_Free",
-            "name": "🅱️Free影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/Free影视.json"
-        },          {
+       {
+      "key": "freeok",
+      "name": "🌟1080P┃FROK",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+        "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+        "分类值": "1&2&3&4&12&5",
+        "副标题": "<div class=\"module-item-note\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+        "线路标题": "<span>&&</small>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "<p>&&</p>"
+      }
+    },      {
             "key": "csp_好戏",
             "name": "🅱️好戏影视|T追剧",
             "type": 3,
