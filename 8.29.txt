@@ -27,7 +27,7 @@
   "sites": [
     {
       "key": "csp_SP360",
-      "name": "🍳┃360官源┃3月1日更新",
+      "name": "🍳┃360官源┃3月9日更新",
       "type": 3,
       "playerType": 2,
       "api": "csp_SP360",
@@ -133,7 +133,17 @@
             "type": 3,
             "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
             "ext": "./json/哔哩影视.js"
-        },
+        },{
+      "key": "csp_Kunyu77",
+      "name": "👒酷云七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://gitee.com/wuyougouwu/tvsource/raw/master/jar/77.jar;md5;A0C72C940A5E8E19E425F437D48942F2",
+      "filterable": 1
+    },
  
     {
       "key": "超前",
@@ -1193,9 +1203,9 @@
       "url": "https://t1.qlplayer.cyou/player/?url="
 
     },    {
-      "name": "落宫格解析",
-      "type": 0,
-      "url": "https://bf.lggys.com/player/index.php?code=qw&url="
+      "name": "巧技解析",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
 
     },
 
