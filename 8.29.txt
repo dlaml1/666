@@ -143,8 +143,7 @@
       "key": "蚂蚁",
       "name": "🐜1080P┃蚂蚁",
       "type": 3,
-
-      "api": "csp_AppYsV2",
+      "api": "csp_AppYsV2","playUrl":"json:http://112.124.27.34/tt.php?url=",
       "ext": "http://122.228.84.103:5822/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
